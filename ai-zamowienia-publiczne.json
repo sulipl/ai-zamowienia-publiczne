@@ -41,14 +41,14 @@
             "zamawiajacych": 13
         },
         {
-            "kod": "administracja_centralna",
-            "nazwa": "Administracja centralna",
+            "kod": "ngo",
+            "nazwa": "Organizacje pozarządowe",
             "ogloszen": 6,
             "zamawiajacych": 5
         },
         {
-            "kod": "ngo",
-            "nazwa": "Organizacje pozarządowe",
+            "kod": "administracja_centralna",
+            "nazwa": "Administracja centralna",
             "ogloszen": 6,
             "zamawiajacych": 5
         },
@@ -83,13 +83,13 @@
             "ogloszen": 24
         },
         {
-            "kod": "szkolenie",
-            "nazwa": "Szkolenia",
+            "kod": "sprzet_it",
+            "nazwa": "Sprzęt (serwery, GPU, stacje)",
             "ogloszen": 13
         },
         {
-            "kod": "sprzet_it",
-            "nazwa": "Sprzęt (serwery, GPU, stacje)",
+            "kod": "szkolenie",
+            "nazwa": "Szkolenia",
             "ogloszen": 13
         },
         {

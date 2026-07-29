@@ -36,8 +36,8 @@ pisze nieściśle.
 | Firmy prywatne | 52 | 48,1% | 34 |
 | Uczelnie i instytuty | 20 | 18,5% | 18 |
 | Ochrona zdrowia | 17 | 15,7% | 13 |
-| Administracja centralna | 6 | 5,6% | 5 |
 | Organizacje pozarządowe | 6 | 5,6% | 5 |
+| Administracja centralna | 6 | 5,6% | 5 |
 | Służby i wojsko | 3 | 2,8% | 2 |
 | Samorząd | 2 | 1,9% | 2 |
 | Oświata | 2 | 1,9% | 1 |
@@ -48,8 +48,8 @@ pisze nieściśle.
 |---|---:|
 | Wdrożenie systemu AI | 55 |
 | Badania i rozwój | 24 |
-| Szkolenia | 13 |
 | Sprzęt (serwery, GPU, stacje) | 13 |
+| Szkolenia | 13 |
 | Usługi IT bez AI | 2 |
 | Licencje i gotowe oprogramowanie | 1 |
 
