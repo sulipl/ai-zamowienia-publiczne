@@ -1,0 +1,180 @@
+{
+    "nazwa": "Monitor AI w polskich zamówieniach finansowanych ze środków publicznych",
+    "wydawca": "redAi",
+    "url": "https://redai.pl/raport/kto-kupuje-ai-w-polsce",
+    "licencja": "CC BY 4.0",
+    "zrodla": [
+        "Baza Konkurencyjności",
+        "TED (Tenders Electronic Daily)",
+        "eZamówienia"
+    ],
+    "okres": {
+        "od": "2026-05-12",
+        "do": "2026-07-28"
+    },
+    "aktualizacja": "2026-07-29",
+    "liczby": {
+        "ogloszen_przeanalizowanych": 1473,
+        "ogloszen_sklasyfikowanych": 1462,
+        "ogloszen_dotyczacych_ai": 108,
+        "udzial_ai_proc": 7.4,
+        "ogloszen_sektor_publiczny": 50,
+        "roznych_zamawiajacych": 80
+    },
+    "wg_sektora": [
+        {
+            "kod": "firma_prywatna",
+            "nazwa": "Firmy prywatne",
+            "ogloszen": 52,
+            "zamawiajacych": 34
+        },
+        {
+            "kod": "uczelnia_nauka",
+            "nazwa": "Uczelnie i instytuty",
+            "ogloszen": 20,
+            "zamawiajacych": 18
+        },
+        {
+            "kod": "szpital_zdrowie",
+            "nazwa": "Ochrona zdrowia",
+            "ogloszen": 17,
+            "zamawiajacych": 13
+        },
+        {
+            "kod": "administracja_centralna",
+            "nazwa": "Administracja centralna",
+            "ogloszen": 6,
+            "zamawiajacych": 5
+        },
+        {
+            "kod": "ngo",
+            "nazwa": "Organizacje pozarządowe",
+            "ogloszen": 6,
+            "zamawiajacych": 5
+        },
+        {
+            "kod": "sluzby_wojsko",
+            "nazwa": "Służby i wojsko",
+            "ogloszen": 3,
+            "zamawiajacych": 2
+        },
+        {
+            "kod": "samorzad",
+            "nazwa": "Samorząd",
+            "ogloszen": 2,
+            "zamawiajacych": 2
+        },
+        {
+            "kod": "oswiata",
+            "nazwa": "Oświata",
+            "ogloszen": 2,
+            "zamawiajacych": 1
+        }
+    ],
+    "wg_rodzaju": [
+        {
+            "kod": "wdrozenie_ai",
+            "nazwa": "Wdrożenie systemu AI",
+            "ogloszen": 55
+        },
+        {
+            "kod": "badania_rd",
+            "nazwa": "Badania i rozwój",
+            "ogloszen": 24
+        },
+        {
+            "kod": "szkolenie",
+            "nazwa": "Szkolenia",
+            "ogloszen": 13
+        },
+        {
+            "kod": "sprzet_it",
+            "nazwa": "Sprzęt (serwery, GPU, stacje)",
+            "ogloszen": 13
+        },
+        {
+            "kod": "uslugi_it",
+            "nazwa": "Usługi IT bez AI",
+            "ogloszen": 2
+        },
+        {
+            "kod": "oprogramowanie",
+            "nazwa": "Licencje i gotowe oprogramowanie",
+            "ogloszen": 1
+        }
+    ],
+    "tygodniowo": [
+        {
+            "tydzien_od": "2026-05-12",
+            "ogloszen": 5
+        },
+        {
+            "tydzien_od": "2026-05-18",
+            "ogloszen": 6
+        },
+        {
+            "tydzien_od": "2026-05-26",
+            "ogloszen": 5
+        },
+        {
+            "tydzien_od": "2026-06-02",
+            "ogloszen": 5
+        },
+        {
+            "tydzien_od": "2026-06-09",
+            "ogloszen": 5
+        },
+        {
+            "tydzien_od": "2026-06-15",
+            "ogloszen": 11
+        },
+        {
+            "tydzien_od": "2026-06-22",
+            "ogloszen": 8
+        },
+        {
+            "tydzien_od": "2026-06-29",
+            "ogloszen": 19
+        },
+        {
+            "tydzien_od": "2026-07-06",
+            "ogloszen": 15
+        },
+        {
+            "tydzien_od": "2026-07-13",
+            "ogloszen": 11
+        },
+        {
+            "tydzien_od": "2026-07-20",
+            "ogloszen": 13
+        },
+        {
+            "tydzien_od": "2026-07-27",
+            "ogloszen": 5
+        }
+    ],
+    "slowniki": {
+        "sektor": {
+            "szpital_zdrowie": "Ochrona zdrowia",
+            "samorzad": "Samorząd",
+            "administracja_centralna": "Administracja centralna",
+            "uczelnia_nauka": "Uczelnie i instytuty",
+            "oswiata": "Oświata",
+            "sluzby_wojsko": "Służby i wojsko",
+            "sad_prokuratura": "Sądy i prokuratura",
+            "spolka_komunalna": "Spółki komunalne",
+            "firma_prywatna": "Firmy prywatne",
+            "ngo": "Organizacje pozarządowe",
+            "inne": "Pozostałe"
+        },
+        "rodzaj_zamowienia": {
+            "wdrozenie_ai": "Wdrożenie systemu AI",
+            "oprogramowanie": "Licencje i gotowe oprogramowanie",
+            "sprzet_it": "Sprzęt (serwery, GPU, stacje)",
+            "uslugi_it": "Usługi IT bez AI",
+            "szkolenie": "Szkolenia",
+            "badania_rd": "Badania i rozwój",
+            "inne": "Pozostałe"
+        }
+    }
+}
