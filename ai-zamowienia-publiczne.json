@@ -10,16 +10,16 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-07-28"
+        "do": "2026-07-30"
     },
-    "aktualizacja": "2026-07-30",
+    "aktualizacja": "2026-07-31",
     "liczby": {
-        "ogloszen_przeanalizowanych": 1488,
-        "ogloszen_sklasyfikowanych": 1488,
-        "ogloszen_dotyczacych_ai": 109,
-        "udzial_ai_proc": 7.3,
-        "ogloszen_sektor_publiczny": 50,
-        "roznych_zamawiajacych": 80
+        "ogloszen_przeanalizowanych": 1520,
+        "ogloszen_sklasyfikowanych": 1520,
+        "ogloszen_dotyczacych_ai": 110,
+        "udzial_ai_proc": 7.2,
+        "ogloszen_sektor_publiczny": 51,
+        "roznych_zamawiajacych": 81
     },
     "wg_sektora": [
         {
@@ -37,18 +37,18 @@
         {
             "kod": "szpital_zdrowie",
             "nazwa": "Ochrona zdrowia",
-            "ogloszen": 17,
-            "zamawiajacych": 13
-        },
-        {
-            "kod": "administracja_centralna",
-            "nazwa": "Administracja centralna",
-            "ogloszen": 6,
-            "zamawiajacych": 5
+            "ogloszen": 18,
+            "zamawiajacych": 14
         },
         {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
+            "ogloszen": 6,
+            "zamawiajacych": 5
+        },
+        {
+            "kod": "administracja_centralna",
+            "nazwa": "Administracja centralna",
             "ogloszen": 6,
             "zamawiajacych": 5
         },
@@ -59,23 +59,23 @@
             "zamawiajacych": 2
         },
         {
-            "kod": "oswiata",
-            "nazwa": "Oświata",
-            "ogloszen": 2,
-            "zamawiajacych": 1
-        },
-        {
             "kod": "samorzad",
             "nazwa": "Samorząd",
             "ogloszen": 2,
             "zamawiajacych": 2
+        },
+        {
+            "kod": "oswiata",
+            "nazwa": "Oświata",
+            "ogloszen": 2,
+            "zamawiajacych": 1
         }
     ],
     "wg_rodzaju": [
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 56
+            "ogloszen": 57
         },
         {
             "kod": "badania_rd",
@@ -83,13 +83,13 @@
             "ogloszen": 24
         },
         {
-            "kod": "szkolenie",
-            "nazwa": "Szkolenia",
+            "kod": "sprzet_it",
+            "nazwa": "Sprzęt (serwery, GPU, stacje)",
             "ogloszen": 13
         },
         {
-            "kod": "sprzet_it",
-            "nazwa": "Sprzęt (serwery, GPU, stacje)",
+            "kod": "szkolenie",
+            "nazwa": "Szkolenia",
             "ogloszen": 13
         },
         {
@@ -150,7 +150,7 @@
         },
         {
             "tydzien_od": "2026-07-27",
-            "ogloszen": 5
+            "ogloszen": 6
         }
     ],
     "slowniki": {
