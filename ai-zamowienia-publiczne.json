@@ -10,23 +10,23 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-07-30"
+        "do": "2026-07-31"
     },
-    "aktualizacja": "2026-07-31",
+    "aktualizacja": "2026-08-01",
     "liczby": {
-        "ogloszen_przeanalizowanych": 1520,
-        "ogloszen_sklasyfikowanych": 1520,
-        "ogloszen_dotyczacych_ai": 110,
-        "udzial_ai_proc": 7.2,
+        "ogloszen_przeanalizowanych": 1564,
+        "ogloszen_sklasyfikowanych": 1564,
+        "ogloszen_dotyczacych_ai": 111,
+        "udzial_ai_proc": 7.1,
         "ogloszen_sektor_publiczny": 51,
-        "roznych_zamawiajacych": 81
+        "roznych_zamawiajacych": 82
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 53,
-            "zamawiajacych": 34
+            "ogloszen": 54,
+            "zamawiajacych": 35
         },
         {
             "kod": "uczelnia_nauka",
@@ -83,19 +83,19 @@
             "ogloszen": 24
         },
         {
-            "kod": "sprzet_it",
-            "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 13
-        },
-        {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
             "ogloszen": 13
         },
         {
+            "kod": "sprzet_it",
+            "nazwa": "Sprzęt (serwery, GPU, stacje)",
+            "ogloszen": 13
+        },
+        {
             "kod": "uslugi_it",
             "nazwa": "Usługi IT bez AI",
-            "ogloszen": 2
+            "ogloszen": 3
         },
         {
             "kod": "oprogramowanie",
@@ -150,7 +150,7 @@
         },
         {
             "tydzien_od": "2026-07-27",
-            "ogloszen": 6
+            "ogloszen": 7
         }
     ],
     "slowniki": {
