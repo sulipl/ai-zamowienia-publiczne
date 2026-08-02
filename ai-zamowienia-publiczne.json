@@ -12,10 +12,10 @@
         "od": "2026-05-12",
         "do": "2026-07-31"
     },
-    "aktualizacja": "2026-08-01",
+    "aktualizacja": "2026-08-02",
     "liczby": {
-        "ogloszen_przeanalizowanych": 1564,
-        "ogloszen_sklasyfikowanych": 1564,
+        "ogloszen_przeanalizowanych": 1565,
+        "ogloszen_sklasyfikowanych": 1565,
         "ogloszen_dotyczacych_ai": 111,
         "udzial_ai_proc": 7.1,
         "ogloszen_sektor_publiczny": 51,
@@ -83,13 +83,13 @@
             "ogloszen": 24
         },
         {
-            "kod": "szkolenie",
-            "nazwa": "Szkolenia",
+            "kod": "sprzet_it",
+            "nazwa": "Sprzęt (serwery, GPU, stacje)",
             "ogloszen": 13
         },
         {
-            "kod": "sprzet_it",
-            "nazwa": "Sprzęt (serwery, GPU, stacje)",
+            "kod": "szkolenie",
+            "nazwa": "Szkolenia",
             "ogloszen": 13
         },
         {
