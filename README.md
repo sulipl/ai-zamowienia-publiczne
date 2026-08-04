@@ -1,14 +1,14 @@
 # Kto w Polsce kupuje AI za publiczne pieniądze
 
 Otwarty zbiór danych o ogłoszeniach o zamówieniach w Polsce, których przedmiot dotyczy
-sztucznej inteligencji. Budowany codziennie, aktualizacja: **2026-08-03**.
+sztucznej inteligencji. Budowany codziennie, aktualizacja: **2026-08-04**.
 
-Okres objęty zbiorem: **2026-05-12 do 2026-07-31**.
+Okres objęty zbiorem: **2026-05-12 do 2026-08-03**.
 
 ## Główne liczby
 
-- Ogłoszeń przeanalizowanych (po filtrze słów-kluczy): **1566**
-- Ogłoszeń, których przedmiot **naprawdę** dotyczy AI: **111** (7,1%)
+- Ogłoszeń przeanalizowanych (po filtrze słów-kluczy): **1598**
+- Ogłoszeń, których przedmiot **naprawdę** dotyczy AI: **112** (7%)
 - Ogłoszonych przez podmioty publiczne: **51**
 - Różnych zamawiających: **82**
 
@@ -19,7 +19,7 @@ zawyża rynek kilkukrotnie. Większość trafień to zbiegi słów, nie zakupy A
 
 | Rejestr | Co zawiera | Ogłoszeń o AI |
 |---|---|---:|
-| [Baza Konkurencyjności](https://bazakonkurencyjnosci.funduszeeuropejskie.gov.pl/) | ogłoszenia o zamówieniach w projektach współfinansowanych z funduszy europejskich | 73 |
+| [Baza Konkurencyjności](https://bazakonkurencyjnosci.funduszeeuropejskie.gov.pl/) | ogłoszenia o zamówieniach w projektach współfinansowanych z funduszy europejskich | 74 |
 | [TED (Tenders Electronic Daily)](https://ted.europa.eu/) | unijny dziennik zamówień publicznych, polska część | 29 |
 | [eZamówienia](https://ezamowienia.gov.pl/) | krajowa platforma zamówień publicznych | 9 |
 
@@ -33,14 +33,14 @@ pisze nieściśle.
 
 | Sektor | Ogłoszeń | Udział | Zamawiających |
 |---|---:|---:|---:|
-| Firmy prywatne | 54 | 48,6% | 35 |
-| Uczelnie i instytuty | 20 | 18% | 18 |
-| Ochrona zdrowia | 18 | 16,2% | 14 |
-| Organizacje pozarządowe | 6 | 5,4% | 5 |
+| Firmy prywatne | 54 | 48,2% | 35 |
+| Uczelnie i instytuty | 20 | 17,9% | 18 |
+| Ochrona zdrowia | 18 | 16,1% | 14 |
+| Organizacje pozarządowe | 7 | 6,3% | 5 |
 | Administracja centralna | 6 | 5,4% | 5 |
 | Służby i wojsko | 3 | 2,7% | 2 |
-| Oświata | 2 | 1,8% | 1 |
 | Samorząd | 2 | 1,8% | 2 |
+| Oświata | 2 | 1,8% | 1 |
 
 ## Co kupują
 
@@ -48,8 +48,8 @@ pisze nieściśle.
 |---|---:|
 | Wdrożenie systemu AI | 57 |
 | Badania i rozwój | 24 |
+| Szkolenia | 14 |
 | Sprzęt (serwery, GPU, stacje) | 13 |
-| Szkolenia | 13 |
 | Usługi IT bez AI | 3 |
 | Licencje i gotowe oprogramowanie | 1 |
 
@@ -94,5 +94,5 @@ Klasyfikacja modelem językowym ma niezerowy błąd; kolumna `dotyczy_ai` jest o
 Dane pochodzą z jawnych rejestrów zamówień publicznych. Opracowanie udostępniamy na licencji
 **CC BY 4.0**.
 
-> redAi, *Monitor AI w polskich zamówieniach finansowanych ze środków publicznych*, dane za okres 2026-05-12 do 2026-07-31,
-> aktualizacja 2026-08-03. https://redai.pl/raport/kto-kupuje-ai-w-polsce
+> redAi, *Monitor AI w polskich zamówieniach finansowanych ze środków publicznych*, dane za okres 2026-05-12 do 2026-08-03,
+> aktualizacja 2026-08-04. https://redai.pl/raport/kto-kupuje-ai-w-polsce

@@ -10,14 +10,14 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-07-31"
+        "do": "2026-08-03"
     },
-    "aktualizacja": "2026-08-03",
+    "aktualizacja": "2026-08-04",
     "liczby": {
-        "ogloszen_przeanalizowanych": 1566,
-        "ogloszen_sklasyfikowanych": 1566,
-        "ogloszen_dotyczacych_ai": 111,
-        "udzial_ai_proc": 7.1,
+        "ogloszen_przeanalizowanych": 1598,
+        "ogloszen_sklasyfikowanych": 1598,
+        "ogloszen_dotyczacych_ai": 112,
+        "udzial_ai_proc": 7,
         "ogloszen_sektor_publiczny": 51,
         "roznych_zamawiajacych": 82
     },
@@ -43,7 +43,7 @@
         {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
-            "ogloszen": 6,
+            "ogloszen": 7,
             "zamawiajacych": 5
         },
         {
@@ -59,16 +59,16 @@
             "zamawiajacych": 2
         },
         {
-            "kod": "oswiata",
-            "nazwa": "Oświata",
-            "ogloszen": 2,
-            "zamawiajacych": 1
-        },
-        {
             "kod": "samorzad",
             "nazwa": "Samorząd",
             "ogloszen": 2,
             "zamawiajacych": 2
+        },
+        {
+            "kod": "oswiata",
+            "nazwa": "Oświata",
+            "ogloszen": 2,
+            "zamawiajacych": 1
         }
     ],
     "wg_rodzaju": [
@@ -83,13 +83,13 @@
             "ogloszen": 24
         },
         {
-            "kod": "sprzet_it",
-            "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 13
-        },
-        {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
+            "ogloszen": 14
+        },
+        {
+            "kod": "sprzet_it",
+            "nazwa": "Sprzęt (serwery, GPU, stacje)",
             "ogloszen": 13
         },
         {
@@ -151,6 +151,10 @@
         {
             "tydzien_od": "2026-07-27",
             "ogloszen": 7
+        },
+        {
+            "tydzien_od": "2026-08-03",
+            "ogloszen": 1
         }
     ],
     "slowniki": {
