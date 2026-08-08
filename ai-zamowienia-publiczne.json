@@ -12,12 +12,12 @@
         "od": "2026-05-12",
         "do": "2026-08-06"
     },
-    "aktualizacja": "2026-08-07",
+    "aktualizacja": "2026-08-08",
     "liczby": {
-        "ogloszen_przeanalizowanych": 1707,
-        "ogloszen_sklasyfikowanych": 1707,
+        "ogloszen_przeanalizowanych": 1744,
+        "ogloszen_sklasyfikowanych": 1744,
         "ogloszen_dotyczacych_ai": 115,
-        "udzial_ai_proc": 6.7,
+        "udzial_ai_proc": 6.6,
         "ogloszen_sektor_publiczny": 51,
         "roznych_zamawiajacych": 83
     },
@@ -59,16 +59,16 @@
             "zamawiajacych": 2
         },
         {
-            "kod": "oswiata",
-            "nazwa": "Oświata",
-            "ogloszen": 2,
-            "zamawiajacych": 1
-        },
-        {
             "kod": "samorzad",
             "nazwa": "Samorząd",
             "ogloszen": 2,
             "zamawiajacych": 2
+        },
+        {
+            "kod": "oswiata",
+            "nazwa": "Oświata",
+            "ogloszen": 2,
+            "zamawiajacych": 1
         }
     ],
     "wg_rodzaju": [
