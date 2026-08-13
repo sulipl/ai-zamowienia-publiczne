@@ -10,16 +10,16 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-08-11"
+        "do": "2026-08-12"
     },
-    "aktualizacja": "2026-08-12",
+    "aktualizacja": "2026-08-13",
     "liczby": {
-        "ogloszen_przeanalizowanych": 1816,
-        "ogloszen_sklasyfikowanych": 1816,
-        "ogloszen_dotyczacych_ai": 117,
+        "ogloszen_przeanalizowanych": 1851,
+        "ogloszen_sklasyfikowanych": 1851,
+        "ogloszen_dotyczacych_ai": 119,
         "udzial_ai_proc": 6.4,
-        "ogloszen_sektor_publiczny": 52,
-        "roznych_zamawiajacych": 85
+        "ogloszen_sektor_publiczny": 54,
+        "roznych_zamawiajacych": 86
     },
     "wg_sektora": [
         {
@@ -31,7 +31,7 @@
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 21,
+            "ogloszen": 22,
             "zamawiajacych": 19
         },
         {
@@ -41,15 +41,15 @@
             "zamawiajacych": 14
         },
         {
+            "kod": "administracja_centralna",
+            "nazwa": "Administracja centralna",
+            "ogloszen": 7,
+            "zamawiajacych": 6
+        },
+        {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
             "ogloszen": 7,
-            "zamawiajacych": 5
-        },
-        {
-            "kod": "administracja_centralna",
-            "nazwa": "Administracja centralna",
-            "ogloszen": 6,
             "zamawiajacych": 5
         },
         {
@@ -59,16 +59,16 @@
             "zamawiajacych": 2
         },
         {
-            "kod": "samorzad",
-            "nazwa": "Samorząd",
-            "ogloszen": 2,
-            "zamawiajacych": 2
-        },
-        {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 2,
             "zamawiajacych": 1
+        },
+        {
+            "kod": "samorzad",
+            "nazwa": "Samorząd",
+            "ogloszen": 2,
+            "zamawiajacych": 2
         },
         {
             "kod": "inne",
@@ -101,12 +101,12 @@
         {
             "kod": "uslugi_it",
             "nazwa": "Usługi IT bez AI",
-            "ogloszen": 3
+            "ogloszen": 4
         },
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 1
+            "ogloszen": 2
         },
         {
             "kod": "inne",
@@ -169,7 +169,7 @@
         },
         {
             "tydzien_od": "2026-08-10",
-            "ogloszen": 2
+            "ogloszen": 4
         }
     ],
     "slowniki": {
