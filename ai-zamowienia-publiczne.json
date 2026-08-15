@@ -10,16 +10,16 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-08-12"
+        "do": "2026-08-13"
     },
-    "aktualizacja": "2026-08-13",
+    "aktualizacja": "2026-08-15",
     "liczby": {
-        "ogloszen_przeanalizowanych": 1851,
-        "ogloszen_sklasyfikowanych": 1851,
-        "ogloszen_dotyczacych_ai": 119,
-        "udzial_ai_proc": 6.4,
-        "ogloszen_sektor_publiczny": 54,
-        "roznych_zamawiajacych": 86
+        "ogloszen_przeanalizowanych": 1919,
+        "ogloszen_sklasyfikowanych": 1919,
+        "ogloszen_dotyczacych_ai": 121,
+        "udzial_ai_proc": 6.3,
+        "ogloszen_sektor_publiczny": 56,
+        "roznych_zamawiajacych": 87
     },
     "wg_sektora": [
         {
@@ -31,8 +31,8 @@
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 22,
-            "zamawiajacych": 19
+            "ogloszen": 24,
+            "zamawiajacych": 20
         },
         {
             "kod": "szpital_zdrowie",
@@ -59,16 +59,16 @@
             "zamawiajacych": 2
         },
         {
-            "kod": "oswiata",
-            "nazwa": "Oświata",
-            "ogloszen": 2,
-            "zamawiajacych": 1
-        },
-        {
             "kod": "samorzad",
             "nazwa": "Samorząd",
             "ogloszen": 2,
             "zamawiajacych": 2
+        },
+        {
+            "kod": "oswiata",
+            "nazwa": "Oświata",
+            "ogloszen": 2,
+            "zamawiajacych": 1
         },
         {
             "kod": "inne",
@@ -81,7 +81,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 59
+            "ogloszen": 60
         },
         {
             "kod": "badania_rd",
@@ -91,7 +91,7 @@
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 16
+            "ogloszen": 17
         },
         {
             "kod": "sprzet_it",
@@ -169,7 +169,7 @@
         },
         {
             "tydzien_od": "2026-08-10",
-            "ogloszen": 4
+            "ogloszen": 6
         }
     ],
     "slowniki": {
