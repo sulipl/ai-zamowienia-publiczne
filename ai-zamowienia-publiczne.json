@@ -10,29 +10,29 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-08-13"
+        "do": "2026-08-17"
     },
-    "aktualizacja": "2026-08-15",
+    "aktualizacja": "2026-08-18",
     "liczby": {
-        "ogloszen_przeanalizowanych": 1919,
-        "ogloszen_sklasyfikowanych": 1919,
-        "ogloszen_dotyczacych_ai": 121,
+        "ogloszen_przeanalizowanych": 1958,
+        "ogloszen_sklasyfikowanych": 1958,
+        "ogloszen_dotyczacych_ai": 123,
         "udzial_ai_proc": 6.3,
-        "ogloszen_sektor_publiczny": 56,
-        "roznych_zamawiajacych": 87
+        "ogloszen_sektor_publiczny": 57,
+        "roznych_zamawiajacych": 89
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 57,
-            "zamawiajacych": 36
+            "ogloszen": 58,
+            "zamawiajacych": 37
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 24,
-            "zamawiajacych": 20
+            "ogloszen": 25,
+            "zamawiajacych": 21
         },
         {
             "kod": "szpital_zdrowie",
@@ -59,16 +59,16 @@
             "zamawiajacych": 2
         },
         {
-            "kod": "samorzad",
-            "nazwa": "Samorząd",
-            "ogloszen": 2,
-            "zamawiajacych": 2
-        },
-        {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 2,
             "zamawiajacych": 1
+        },
+        {
+            "kod": "samorzad",
+            "nazwa": "Samorząd",
+            "ogloszen": 2,
+            "zamawiajacych": 2
         },
         {
             "kod": "inne",
@@ -86,7 +86,7 @@
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 24
+            "ogloszen": 26
         },
         {
             "kod": "szkolenie",
@@ -170,6 +170,10 @@
         {
             "tydzien_od": "2026-08-10",
             "ogloszen": 6
+        },
+        {
+            "tydzien_od": "2026-08-17",
+            "ogloszen": 2
         }
     ],
     "slowniki": {
