@@ -12,12 +12,12 @@
         "od": "2026-05-12",
         "do": "2026-08-17"
     },
-    "aktualizacja": "2026-08-18",
+    "aktualizacja": "2026-08-19",
     "liczby": {
-        "ogloszen_przeanalizowanych": 1958,
-        "ogloszen_sklasyfikowanych": 1958,
+        "ogloszen_przeanalizowanych": 1996,
+        "ogloszen_sklasyfikowanych": 1996,
         "ogloszen_dotyczacych_ai": 123,
-        "udzial_ai_proc": 6.3,
+        "udzial_ai_proc": 6.2,
         "ogloszen_sektor_publiczny": 57,
         "roznych_zamawiajacych": 89
     },
@@ -41,16 +41,16 @@
             "zamawiajacych": 14
         },
         {
-            "kod": "administracja_centralna",
-            "nazwa": "Administracja centralna",
-            "ogloszen": 7,
-            "zamawiajacych": 6
-        },
-        {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
             "ogloszen": 7,
             "zamawiajacych": 5
+        },
+        {
+            "kod": "administracja_centralna",
+            "nazwa": "Administracja centralna",
+            "ogloszen": 7,
+            "zamawiajacych": 6
         },
         {
             "kod": "sluzby_wojsko",
@@ -59,16 +59,16 @@
             "zamawiajacych": 2
         },
         {
-            "kod": "oswiata",
-            "nazwa": "Oświata",
-            "ogloszen": 2,
-            "zamawiajacych": 1
-        },
-        {
             "kod": "samorzad",
             "nazwa": "Samorząd",
             "ogloszen": 2,
             "zamawiajacych": 2
+        },
+        {
+            "kod": "oswiata",
+            "nazwa": "Oświata",
+            "ogloszen": 2,
+            "zamawiajacych": 1
         },
         {
             "kod": "inne",

@@ -1,14 +1,14 @@
 # Kto w Polsce kupuje AI za publiczne pieniądze
 
 Otwarty zbiór danych o ogłoszeniach o zamówieniach w Polsce, których przedmiot dotyczy
-sztucznej inteligencji. Budowany codziennie, aktualizacja: **2026-08-18**.
+sztucznej inteligencji. Budowany codziennie, aktualizacja: **2026-08-19**.
 
 Okres objęty zbiorem: **2026-05-12 do 2026-08-17**.
 
 ## Główne liczby
 
-- Ogłoszeń przeanalizowanych (po filtrze słów-kluczy): **1958**
-- Ogłoszeń, których przedmiot **naprawdę** dotyczy AI: **123** (6,3%)
+- Ogłoszeń przeanalizowanych (po filtrze słów-kluczy): **1996**
+- Ogłoszeń, których przedmiot **naprawdę** dotyczy AI: **123** (6,2%)
 - Ogłoszonych przez podmioty publiczne: **57**
 - Różnych zamawiających: **89**
 
@@ -36,11 +36,11 @@ pisze nieściśle.
 | Firmy prywatne | 58 | 47,2% | 37 |
 | Uczelnie i instytuty | 25 | 20,3% | 21 |
 | Ochrona zdrowia | 18 | 14,6% | 14 |
-| Administracja centralna | 7 | 5,7% | 6 |
 | Organizacje pozarządowe | 7 | 5,7% | 5 |
+| Administracja centralna | 7 | 5,7% | 6 |
 | Służby i wojsko | 3 | 2,4% | 2 |
-| Oświata | 2 | 1,6% | 1 |
 | Samorząd | 2 | 1,6% | 2 |
+| Oświata | 2 | 1,6% | 1 |
 | Pozostałe | 1 | 0,8% | 1 |
 
 ## Co kupują
@@ -97,4 +97,4 @@ Dane pochodzą z jawnych rejestrów zamówień publicznych. Opracowanie udostęp
 **CC BY 4.0**.
 
 > redAi, *Monitor AI w polskich zamówieniach finansowanych ze środków publicznych*, dane za okres 2026-05-12 do 2026-08-17,
-> aktualizacja 2026-08-18. https://redai.pl/raport/kto-kupuje-ai-w-polsce
+> aktualizacja 2026-08-19. https://redai.pl/raport/kto-kupuje-ai-w-polsce
