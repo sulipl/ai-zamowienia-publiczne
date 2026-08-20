@@ -10,23 +10,23 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-08-17"
+        "do": "2026-08-19"
     },
-    "aktualizacja": "2026-08-19",
+    "aktualizacja": "2026-08-20",
     "liczby": {
-        "ogloszen_przeanalizowanych": 1996,
-        "ogloszen_sklasyfikowanych": 1996,
-        "ogloszen_dotyczacych_ai": 123,
+        "ogloszen_przeanalizowanych": 2034,
+        "ogloszen_sklasyfikowanych": 2034,
+        "ogloszen_dotyczacych_ai": 127,
         "udzial_ai_proc": 6.2,
-        "ogloszen_sektor_publiczny": 57,
-        "roznych_zamawiajacych": 89
+        "ogloszen_sektor_publiczny": 58,
+        "roznych_zamawiajacych": 92
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 58,
-            "zamawiajacych": 37
+            "ogloszen": 60,
+            "zamawiajacych": 39
         },
         {
             "kod": "uczelnia_nauka",
@@ -41,16 +41,16 @@
             "zamawiajacych": 14
         },
         {
-            "kod": "ngo",
-            "nazwa": "Organizacje pozarządowe",
-            "ogloszen": 7,
-            "zamawiajacych": 5
-        },
-        {
             "kod": "administracja_centralna",
             "nazwa": "Administracja centralna",
-            "ogloszen": 7,
-            "zamawiajacych": 6
+            "ogloszen": 8,
+            "zamawiajacych": 7
+        },
+        {
+            "kod": "ngo",
+            "nazwa": "Organizacje pozarządowe",
+            "ogloszen": 8,
+            "zamawiajacych": 5
         },
         {
             "kod": "sluzby_wojsko",
@@ -81,7 +81,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 60
+            "ogloszen": 63
         },
         {
             "kod": "badania_rd",
@@ -91,7 +91,7 @@
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 17
+            "ogloszen": 18
         },
         {
             "kod": "sprzet_it",
@@ -173,7 +173,7 @@
         },
         {
             "tydzien_od": "2026-08-17",
-            "ogloszen": 2
+            "ogloszen": 6
         }
     ],
     "slowniki": {
