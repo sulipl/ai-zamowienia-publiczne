@@ -10,23 +10,23 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-08-20"
+        "do": "2026-08-21"
     },
-    "aktualizacja": "2026-08-21",
+    "aktualizacja": "2026-08-22",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2060,
-        "ogloszen_sklasyfikowanych": 2060,
-        "ogloszen_dotyczacych_ai": 130,
-        "udzial_ai_proc": 6.3,
-        "ogloszen_sektor_publiczny": 59,
-        "roznych_zamawiajacych": 94
+        "ogloszen_przeanalizowanych": 2102,
+        "ogloszen_sklasyfikowanych": 2102,
+        "ogloszen_dotyczacych_ai": 134,
+        "udzial_ai_proc": 6.4,
+        "ogloszen_sektor_publiczny": 61,
+        "roznych_zamawiajacych": 97
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 62,
-            "zamawiajacych": 40
+            "ogloszen": 64,
+            "zamawiajacych": 41
         },
         {
             "kod": "uczelnia_nauka",
@@ -61,13 +61,19 @@
         {
             "kod": "samorzad",
             "nazwa": "Samorząd",
-            "ogloszen": 2,
-            "zamawiajacych": 2
+            "ogloszen": 3,
+            "zamawiajacych": 3
         },
         {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 2,
+            "zamawiajacych": 1
+        },
+        {
+            "kod": "spolka_komunalna",
+            "nazwa": "Spółki komunalne",
+            "ogloszen": 1,
             "zamawiajacych": 1
         },
         {
@@ -81,7 +87,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 65
+            "ogloszen": 66
         },
         {
             "kod": "badania_rd",
@@ -101,12 +107,12 @@
         {
             "kod": "uslugi_it",
             "nazwa": "Usługi IT bez AI",
-            "ogloszen": 4
+            "ogloszen": 6
         },
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 2
+            "ogloszen": 3
         },
         {
             "kod": "inne",
@@ -169,11 +175,11 @@
         },
         {
             "tydzien_od": "2026-08-10",
-            "ogloszen": 6
+            "ogloszen": 7
         },
         {
             "tydzien_od": "2026-08-17",
-            "ogloszen": 9
+            "ogloszen": 12
         }
     ],
     "slowniki": {
