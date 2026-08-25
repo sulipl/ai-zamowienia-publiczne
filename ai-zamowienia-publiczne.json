@@ -12,14 +12,14 @@
         "od": "2026-05-12",
         "do": "2026-08-23"
     },
-    "aktualizacja": "2026-08-24",
+    "aktualizacja": "2026-08-25",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2108,
-        "ogloszen_sklasyfikowanych": 2108,
-        "ogloszen_dotyczacych_ai": 135,
+        "ogloszen_przeanalizowanych": 2139,
+        "ogloszen_sklasyfikowanych": 2139,
+        "ogloszen_dotyczacych_ai": 136,
         "udzial_ai_proc": 6.4,
-        "ogloszen_sektor_publiczny": 61,
-        "roznych_zamawiajacych": 98
+        "ogloszen_sektor_publiczny": 62,
+        "roznych_zamawiajacych": 99
     },
     "wg_sektora": [
         {
@@ -55,8 +55,8 @@
         {
             "kod": "samorzad",
             "nazwa": "Samorząd",
-            "ogloszen": 3,
-            "zamawiajacych": 3
+            "ogloszen": 4,
+            "zamawiajacych": 4
         },
         {
             "kod": "sluzby_wojsko",
@@ -97,7 +97,7 @@
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 20
+            "ogloszen": 21
         },
         {
             "kod": "sprzet_it",
@@ -179,7 +179,7 @@
         },
         {
             "tydzien_od": "2026-08-17",
-            "ogloszen": 13
+            "ogloszen": 14
         }
     ],
     "slowniki": {
