@@ -10,29 +10,29 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-08-26"
+        "do": "2026-08-27"
     },
-    "aktualizacja": "2026-08-27",
+    "aktualizacja": "2026-08-28",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2196,
-        "ogloszen_sklasyfikowanych": 2196,
-        "ogloszen_dotyczacych_ai": 138,
-        "udzial_ai_proc": 6.3,
-        "ogloszen_sektor_publiczny": 63,
-        "roznych_zamawiajacych": 101
+        "ogloszen_przeanalizowanych": 2233,
+        "ogloszen_sklasyfikowanych": 2233,
+        "ogloszen_dotyczacych_ai": 142,
+        "udzial_ai_proc": 6.4,
+        "ogloszen_sektor_publiczny": 66,
+        "roznych_zamawiajacych": 104
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 66,
-            "zamawiajacych": 43
+            "ogloszen": 67,
+            "zamawiajacych": 44
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 26,
-            "zamawiajacych": 22
+            "ogloszen": 28,
+            "zamawiajacych": 23
         },
         {
             "kod": "szpital_zdrowie",
@@ -61,8 +61,8 @@
         {
             "kod": "sluzby_wojsko",
             "nazwa": "Służby i wojsko",
-            "ogloszen": 3,
-            "zamawiajacych": 2
+            "ogloszen": 4,
+            "zamawiajacych": 3
         },
         {
             "kod": "oswiata",
@@ -71,14 +71,14 @@
             "zamawiajacych": 1
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
+            "kod": "spolka_komunalna",
+            "nazwa": "Spółki komunalne",
             "ogloszen": 1,
             "zamawiajacych": 1
         },
         {
-            "kod": "spolka_komunalna",
-            "nazwa": "Spółki komunalne",
+            "kod": "inne",
+            "nazwa": "Pozostałe",
             "ogloszen": 1,
             "zamawiajacych": 1
         }
@@ -87,7 +87,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 66
+            "ogloszen": 67
         },
         {
             "kod": "badania_rd",
@@ -102,7 +102,7 @@
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 13
+            "ogloszen": 15
         },
         {
             "kod": "uslugi_it",
@@ -112,7 +112,7 @@
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 3
+            "ogloszen": 4
         },
         {
             "kod": "inne",
@@ -179,11 +179,11 @@
         },
         {
             "tydzien_od": "2026-08-17",
-            "ogloszen": 14
+            "ogloszen": 17
         },
         {
             "tydzien_od": "2026-08-25",
-            "ogloszen": 2
+            "ogloszen": 3
         }
     ],
     "slowniki": {
