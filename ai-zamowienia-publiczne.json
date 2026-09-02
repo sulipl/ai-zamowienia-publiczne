@@ -10,23 +10,23 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-08-31"
+        "do": "2026-09-01"
     },
-    "aktualizacja": "2026-09-01",
+    "aktualizacja": "2026-09-02",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2316,
-        "ogloszen_sklasyfikowanych": 2316,
-        "ogloszen_dotyczacych_ai": 143,
+        "ogloszen_przeanalizowanych": 2349,
+        "ogloszen_sklasyfikowanych": 2349,
+        "ogloszen_dotyczacych_ai": 145,
         "udzial_ai_proc": 6.2,
         "ogloszen_sektor_publiczny": 66,
-        "roznych_zamawiajacych": 105
+        "roznych_zamawiajacych": 106
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 68,
-            "zamawiajacych": 45
+            "ogloszen": 70,
+            "zamawiajacych": 46
         },
         {
             "kod": "uczelnia_nauka",
@@ -71,14 +71,14 @@
             "zamawiajacych": 1
         },
         {
-            "kod": "spolka_komunalna",
-            "nazwa": "Spółki komunalne",
+            "kod": "inne",
+            "nazwa": "Pozostałe",
             "ogloszen": 1,
             "zamawiajacych": 1
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
+            "kod": "spolka_komunalna",
+            "nazwa": "Spółki komunalne",
             "ogloszen": 1,
             "zamawiajacych": 1
         }
@@ -87,12 +87,12 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 68
+            "ogloszen": 69
         },
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 27
+            "ogloszen": 28
         },
         {
             "kod": "szkolenie",
@@ -187,7 +187,7 @@
         },
         {
             "tydzien_od": "2026-08-31",
-            "ogloszen": 1
+            "ogloszen": 3
         }
     ],
     "slowniki": {
