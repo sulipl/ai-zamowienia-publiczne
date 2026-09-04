@@ -12,12 +12,12 @@
         "od": "2026-05-12",
         "do": "2026-09-02"
     },
-    "aktualizacja": "2026-09-03",
+    "aktualizacja": "2026-09-04",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2391,
-        "ogloszen_sklasyfikowanych": 2391,
+        "ogloszen_przeanalizowanych": 2434,
+        "ogloszen_sklasyfikowanych": 2434,
         "ogloszen_dotyczacych_ai": 149,
-        "udzial_ai_proc": 6.2,
+        "udzial_ai_proc": 6.1,
         "ogloszen_sektor_publiczny": 66,
         "roznych_zamawiajacych": 108
     },
@@ -41,16 +41,16 @@
             "zamawiajacych": 14
         },
         {
-            "kod": "administracja_centralna",
-            "nazwa": "Administracja centralna",
-            "ogloszen": 8,
-            "zamawiajacych": 7
-        },
-        {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
             "ogloszen": 8,
             "zamawiajacych": 5
+        },
+        {
+            "kod": "administracja_centralna",
+            "nazwa": "Administracja centralna",
+            "ogloszen": 8,
+            "zamawiajacych": 7
         },
         {
             "kod": "samorzad",
@@ -71,14 +71,14 @@
             "zamawiajacych": 1
         },
         {
-            "kod": "spolka_komunalna",
-            "nazwa": "Spółki komunalne",
+            "kod": "inne",
+            "nazwa": "Pozostałe",
             "ogloszen": 1,
             "zamawiajacych": 1
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
+            "kod": "spolka_komunalna",
+            "nazwa": "Spółki komunalne",
             "ogloszen": 1,
             "zamawiajacych": 1
         }
