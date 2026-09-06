@@ -12,10 +12,10 @@
         "od": "2026-05-12",
         "do": "2026-09-04"
     },
-    "aktualizacja": "2026-09-05",
+    "aktualizacja": "2026-09-06",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2479,
-        "ogloszen_sklasyfikowanych": 2478,
+        "ogloszen_przeanalizowanych": 2481,
+        "ogloszen_sklasyfikowanych": 2481,
         "ogloszen_dotyczacych_ai": 152,
         "udzial_ai_proc": 6.1,
         "ogloszen_sektor_publiczny": 69,
@@ -71,14 +71,14 @@
             "zamawiajacych": 1
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
+            "kod": "spolka_komunalna",
+            "nazwa": "Spółki komunalne",
             "ogloszen": 1,
             "zamawiajacych": 1
         },
         {
-            "kod": "spolka_komunalna",
-            "nazwa": "Spółki komunalne",
+            "kod": "inne",
+            "nazwa": "Pozostałe",
             "ogloszen": 1,
             "zamawiajacych": 1
         }
