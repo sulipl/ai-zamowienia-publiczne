@@ -10,23 +10,23 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-09-04"
+        "do": "2026-09-07"
     },
-    "aktualizacja": "2026-09-07",
+    "aktualizacja": "2026-09-08",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2487,
-        "ogloszen_sklasyfikowanych": 2487,
-        "ogloszen_dotyczacych_ai": 152,
+        "ogloszen_przeanalizowanych": 2525,
+        "ogloszen_sklasyfikowanych": 2525,
+        "ogloszen_dotyczacych_ai": 155,
         "udzial_ai_proc": 6.1,
         "ogloszen_sektor_publiczny": 69,
-        "roznych_zamawiajacych": 111
+        "roznych_zamawiajacych": 113
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 74,
-            "zamawiajacych": 48
+            "ogloszen": 76,
+            "zamawiajacych": 50
         },
         {
             "kod": "uczelnia_nauka",
@@ -41,16 +41,16 @@
             "zamawiajacych": 14
         },
         {
+            "kod": "ngo",
+            "nazwa": "Organizacje pozarządowe",
+            "ogloszen": 9,
+            "zamawiajacych": 5
+        },
+        {
             "kod": "administracja_centralna",
             "nazwa": "Administracja centralna",
             "ogloszen": 8,
             "zamawiajacych": 7
-        },
-        {
-            "kod": "ngo",
-            "nazwa": "Organizacje pozarządowe",
-            "ogloszen": 8,
-            "zamawiajacych": 5
         },
         {
             "kod": "samorzad",
@@ -92,17 +92,17 @@
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 31
+            "ogloszen": 32
         },
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 25
+            "ogloszen": 26
         },
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 15
+            "ogloszen": 16
         },
         {
             "kod": "uslugi_it",
@@ -188,6 +188,10 @@
         {
             "tydzien_od": "2026-08-31",
             "ogloszen": 10
+        },
+        {
+            "tydzien_od": "2026-09-07",
+            "ogloszen": 3
         }
     ],
     "slowniki": {
