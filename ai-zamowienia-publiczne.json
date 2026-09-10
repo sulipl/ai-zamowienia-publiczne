@@ -10,16 +10,16 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-09-08"
+        "do": "2026-09-09"
     },
-    "aktualizacja": "2026-09-09",
+    "aktualizacja": "2026-09-10",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2563,
-        "ogloszen_sklasyfikowanych": 2563,
-        "ogloszen_dotyczacych_ai": 159,
+        "ogloszen_przeanalizowanych": 2582,
+        "ogloszen_sklasyfikowanych": 2582,
+        "ogloszen_dotyczacych_ai": 160,
         "udzial_ai_proc": 6.2,
-        "ogloszen_sektor_publiczny": 70,
-        "roznych_zamawiajacych": 116
+        "ogloszen_sektor_publiczny": 71,
+        "roznych_zamawiajacych": 117
     },
     "wg_sektora": [
         {
@@ -31,8 +31,8 @@
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 30,
-            "zamawiajacych": 25
+            "ogloszen": 31,
+            "zamawiajacych": 26
         },
         {
             "kod": "szpital_zdrowie",
@@ -97,7 +97,7 @@
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 27
+            "ogloszen": 28
         },
         {
             "kod": "sprzet_it",
@@ -191,7 +191,7 @@
         },
         {
             "tydzien_od": "2026-09-07",
-            "ogloszen": 7
+            "ogloszen": 8
         }
     ],
     "slowniki": {
