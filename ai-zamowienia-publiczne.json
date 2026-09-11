@@ -10,22 +10,22 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-09-09"
+        "do": "2026-09-10"
     },
-    "aktualizacja": "2026-09-10",
+    "aktualizacja": "2026-09-11",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2582,
-        "ogloszen_sklasyfikowanych": 2582,
-        "ogloszen_dotyczacych_ai": 160,
+        "ogloszen_przeanalizowanych": 2609,
+        "ogloszen_sklasyfikowanych": 2609,
+        "ogloszen_dotyczacych_ai": 162,
         "udzial_ai_proc": 6.2,
-        "ogloszen_sektor_publiczny": 71,
-        "roznych_zamawiajacych": 117
+        "ogloszen_sektor_publiczny": 72,
+        "roznych_zamawiajacych": 118
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 79,
+            "ogloszen": 80,
             "zamawiajacych": 52
         },
         {
@@ -55,8 +55,8 @@
         {
             "kod": "samorzad",
             "nazwa": "Samorząd",
-            "ogloszen": 7,
-            "zamawiajacych": 7
+            "ogloszen": 8,
+            "zamawiajacych": 8
         },
         {
             "kod": "sluzby_wojsko",
@@ -87,7 +87,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 73
+            "ogloszen": 74
         },
         {
             "kod": "badania_rd",
@@ -97,7 +97,7 @@
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 28
+            "ogloszen": 29
         },
         {
             "kod": "sprzet_it",
@@ -191,7 +191,7 @@
         },
         {
             "tydzien_od": "2026-09-07",
-            "ogloszen": 8
+            "ogloszen": 10
         }
     ],
     "slowniki": {
