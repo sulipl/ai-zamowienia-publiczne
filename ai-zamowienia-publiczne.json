@@ -10,23 +10,23 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-09-10"
+        "do": "2026-09-11"
     },
-    "aktualizacja": "2026-09-11",
+    "aktualizacja": "2026-09-12",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2609,
-        "ogloszen_sklasyfikowanych": 2609,
-        "ogloszen_dotyczacych_ai": 162,
+        "ogloszen_przeanalizowanych": 2646,
+        "ogloszen_sklasyfikowanych": 2646,
+        "ogloszen_dotyczacych_ai": 164,
         "udzial_ai_proc": 6.2,
         "ogloszen_sektor_publiczny": 72,
-        "roznych_zamawiajacych": 118
+        "roznych_zamawiajacych": 120
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 80,
-            "zamawiajacych": 52
+            "ogloszen": 81,
+            "zamawiajacych": 53
         },
         {
             "kod": "uczelnia_nauka",
@@ -47,22 +47,28 @@
             "zamawiajacych": 5
         },
         {
-            "kod": "administracja_centralna",
-            "nazwa": "Administracja centralna",
-            "ogloszen": 8,
-            "zamawiajacych": 7
-        },
-        {
             "kod": "samorzad",
             "nazwa": "Samorząd",
             "ogloszen": 8,
             "zamawiajacych": 8
         },
         {
+            "kod": "administracja_centralna",
+            "nazwa": "Administracja centralna",
+            "ogloszen": 8,
+            "zamawiajacych": 7
+        },
+        {
             "kod": "sluzby_wojsko",
             "nazwa": "Służby i wojsko",
             "ogloszen": 4,
             "zamawiajacych": 3
+        },
+        {
+            "kod": "inne",
+            "nazwa": "Pozostałe",
+            "ogloszen": 2,
+            "zamawiajacych": 2
         },
         {
             "kod": "oswiata",
@@ -75,19 +81,13 @@
             "nazwa": "Spółki komunalne",
             "ogloszen": 1,
             "zamawiajacych": 1
-        },
-        {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
-            "ogloszen": 1,
-            "zamawiajacych": 1
         }
     ],
     "wg_rodzaju": [
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 74
+            "ogloszen": 75
         },
         {
             "kod": "badania_rd",
@@ -102,7 +102,7 @@
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 16
+            "ogloszen": 17
         },
         {
             "kod": "uslugi_it",
@@ -191,7 +191,7 @@
         },
         {
             "tydzien_od": "2026-09-07",
-            "ogloszen": 10
+            "ogloszen": 12
         }
     ],
     "slowniki": {
