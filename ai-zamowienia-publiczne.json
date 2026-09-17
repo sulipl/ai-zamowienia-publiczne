@@ -12,12 +12,12 @@
         "od": "2026-05-12",
         "do": "2026-09-11"
     },
-    "aktualizacja": "2026-09-16",
+    "aktualizacja": "2026-09-17",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2721,
-        "ogloszen_sklasyfikowanych": 2721,
+        "ogloszen_przeanalizowanych": 2760,
+        "ogloszen_sklasyfikowanych": 2760,
         "ogloszen_dotyczacych_ai": 165,
-        "udzial_ai_proc": 6.1,
+        "udzial_ai_proc": 6,
         "ogloszen_sektor_publiczny": 73,
         "roznych_zamawiajacych": 121
     },
@@ -47,16 +47,16 @@
             "zamawiajacych": 5
         },
         {
-            "kod": "samorzad",
-            "nazwa": "Samorząd",
-            "ogloszen": 8,
-            "zamawiajacych": 8
-        },
-        {
             "kod": "administracja_centralna",
             "nazwa": "Administracja centralna",
             "ogloszen": 8,
             "zamawiajacych": 7
+        },
+        {
+            "kod": "samorzad",
+            "nazwa": "Samorząd",
+            "ogloszen": 8,
+            "zamawiajacych": 8
         },
         {
             "kod": "sluzby_wojsko",
