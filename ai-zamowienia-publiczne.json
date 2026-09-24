@@ -10,13 +10,13 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-09-22"
+        "do": "2026-09-23"
     },
-    "aktualizacja": "2026-09-23",
+    "aktualizacja": "2026-09-24",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2898,
-        "ogloszen_sklasyfikowanych": 2898,
-        "ogloszen_dotyczacych_ai": 175,
+        "ogloszen_przeanalizowanych": 2928,
+        "ogloszen_sklasyfikowanych": 2928,
+        "ogloszen_dotyczacych_ai": 176,
         "udzial_ai_proc": 6,
         "ogloszen_sektor_publiczny": 78,
         "roznych_zamawiajacych": 130
@@ -25,7 +25,7 @@
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 85,
+            "ogloszen": 86,
             "zamawiajacych": 56
         },
         {
@@ -47,16 +47,16 @@
             "zamawiajacych": 6
         },
         {
-            "kod": "administracja_centralna",
-            "nazwa": "Administracja centralna",
-            "ogloszen": 9,
-            "zamawiajacych": 8
-        },
-        {
             "kod": "samorzad",
             "nazwa": "Samorząd",
             "ogloszen": 9,
             "zamawiajacych": 9
+        },
+        {
+            "kod": "administracja_centralna",
+            "nazwa": "Administracja centralna",
+            "ogloszen": 9,
+            "zamawiajacych": 8
         },
         {
             "kod": "sluzby_wojsko",
@@ -92,7 +92,7 @@
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 32
+            "ogloszen": 33
         },
         {
             "kod": "szkolenie",
@@ -199,7 +199,7 @@
         },
         {
             "tydzien_od": "2026-09-21",
-            "ogloszen": 6
+            "ogloszen": 7
         }
     ],
     "slowniki": {
