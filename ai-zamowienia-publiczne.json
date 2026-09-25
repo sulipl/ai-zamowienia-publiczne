@@ -10,29 +10,29 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-09-23"
+        "do": "2026-09-24"
     },
-    "aktualizacja": "2026-09-24",
+    "aktualizacja": "2026-09-25",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2928,
-        "ogloszen_sklasyfikowanych": 2928,
-        "ogloszen_dotyczacych_ai": 176,
-        "udzial_ai_proc": 6,
-        "ogloszen_sektor_publiczny": 78,
-        "roznych_zamawiajacych": 130
+        "ogloszen_przeanalizowanych": 2960,
+        "ogloszen_sklasyfikowanych": 2960,
+        "ogloszen_dotyczacych_ai": 180,
+        "udzial_ai_proc": 6.1,
+        "ogloszen_sektor_publiczny": 79,
+        "roznych_zamawiajacych": 132
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 86,
-            "zamawiajacych": 56
+            "ogloszen": 88,
+            "zamawiajacych": 57
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 34,
-            "zamawiajacych": 29
+            "ogloszen": 35,
+            "zamawiajacych": 30
         },
         {
             "kod": "szpital_zdrowie",
@@ -43,7 +43,7 @@
         {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
-            "ogloszen": 10,
+            "ogloszen": 11,
             "zamawiajacych": 6
         },
         {
@@ -92,17 +92,17 @@
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 33
+            "ogloszen": 35
         },
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 32
+            "ogloszen": 33
         },
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 21
+            "ogloszen": 22
         },
         {
             "kod": "uslugi_it",
@@ -199,7 +199,7 @@
         },
         {
             "tydzien_od": "2026-09-21",
-            "ogloszen": 7
+            "ogloszen": 11
         }
     ],
     "slowniki": {
