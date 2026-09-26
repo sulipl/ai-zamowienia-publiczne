@@ -10,22 +10,22 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-09-24"
+        "do": "2026-09-25"
     },
-    "aktualizacja": "2026-09-25",
+    "aktualizacja": "2026-09-26",
     "liczby": {
-        "ogloszen_przeanalizowanych": 2960,
-        "ogloszen_sklasyfikowanych": 2960,
-        "ogloszen_dotyczacych_ai": 180,
+        "ogloszen_przeanalizowanych": 2988,
+        "ogloszen_sklasyfikowanych": 2988,
+        "ogloszen_dotyczacych_ai": 182,
         "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 79,
+        "ogloszen_sektor_publiczny": 80,
         "roznych_zamawiajacych": 132
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 88,
+            "ogloszen": 89,
             "zamawiajacych": 57
         },
         {
@@ -49,7 +49,7 @@
         {
             "kod": "samorzad",
             "nazwa": "Samorząd",
-            "ogloszen": 9,
+            "ogloszen": 10,
             "zamawiajacych": 9
         },
         {
@@ -97,7 +97,7 @@
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 33
+            "ogloszen": 35
         },
         {
             "kod": "sprzet_it",
@@ -199,7 +199,7 @@
         },
         {
             "tydzien_od": "2026-09-21",
-            "ogloszen": 11
+            "ogloszen": 13
         }
     ],
     "slowniki": {
