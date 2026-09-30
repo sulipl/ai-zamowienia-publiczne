@@ -10,29 +10,29 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-09-25"
+        "do": "2026-09-29"
     },
-    "aktualizacja": "2026-09-29",
+    "aktualizacja": "2026-09-30",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3024,
-        "ogloszen_sklasyfikowanych": 3024,
-        "ogloszen_dotyczacych_ai": 182,
+        "ogloszen_przeanalizowanych": 3062,
+        "ogloszen_sklasyfikowanych": 3061,
+        "ogloszen_dotyczacych_ai": 185,
         "udzial_ai_proc": 6,
-        "ogloszen_sektor_publiczny": 80,
-        "roznych_zamawiajacych": 132
+        "ogloszen_sektor_publiczny": 81,
+        "roznych_zamawiajacych": 135
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 89,
-            "zamawiajacych": 57
+            "ogloszen": 91,
+            "zamawiajacych": 59
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 35,
-            "zamawiajacych": 30
+            "ogloszen": 36,
+            "zamawiajacych": 31
         },
         {
             "kod": "szpital_zdrowie",
@@ -87,12 +87,12 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 77
+            "ogloszen": 78
         },
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 35
+            "ogloszen": 37
         },
         {
             "kod": "szkolenie",
@@ -200,6 +200,10 @@
         {
             "tydzien_od": "2026-09-21",
             "ogloszen": 13
+        },
+        {
+            "tydzien_od": "2026-09-29",
+            "ogloszen": 3
         }
     ],
     "slowniki": {
