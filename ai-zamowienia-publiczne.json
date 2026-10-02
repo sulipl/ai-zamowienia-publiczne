@@ -10,35 +10,35 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-09-30"
+        "do": "2026-10-01"
     },
-    "aktualizacja": "2026-10-01",
+    "aktualizacja": "2026-10-02",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3086,
-        "ogloszen_sklasyfikowanych": 3086,
-        "ogloszen_dotyczacych_ai": 186,
-        "udzial_ai_proc": 6,
-        "ogloszen_sektor_publiczny": 82,
-        "roznych_zamawiajacych": 135
+        "ogloszen_przeanalizowanych": 3121,
+        "ogloszen_sklasyfikowanych": 3121,
+        "ogloszen_dotyczacych_ai": 191,
+        "udzial_ai_proc": 6.1,
+        "ogloszen_sektor_publiczny": 84,
+        "roznych_zamawiajacych": 138
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 91,
-            "zamawiajacych": 59
+            "ogloszen": 94,
+            "zamawiajacych": 60
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 37,
-            "zamawiajacych": 31
+            "ogloszen": 38,
+            "zamawiajacych": 32
         },
         {
             "kod": "szpital_zdrowie",
             "nazwa": "Ochrona zdrowia",
-            "ogloszen": 18,
-            "zamawiajacych": 14
+            "ogloszen": 19,
+            "zamawiajacych": 15
         },
         {
             "kod": "ngo",
@@ -92,17 +92,17 @@
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 37
+            "ogloszen": 38
         },
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 35
+            "ogloszen": 37
         },
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 23
+            "ogloszen": 24
         },
         {
             "kod": "uslugi_it",
@@ -112,7 +112,7 @@
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 5
+            "ogloszen": 6
         },
         {
             "kod": "inne",
@@ -203,7 +203,7 @@
         },
         {
             "tydzien_od": "2026-09-29",
-            "ogloszen": 4
+            "ogloszen": 9
         }
     ],
     "slowniki": {
