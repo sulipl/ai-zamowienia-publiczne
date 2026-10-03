@@ -10,16 +10,16 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-10-01"
+        "do": "2026-10-02"
     },
-    "aktualizacja": "2026-10-02",
+    "aktualizacja": "2026-10-03",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3121,
-        "ogloszen_sklasyfikowanych": 3121,
-        "ogloszen_dotyczacych_ai": 191,
+        "ogloszen_przeanalizowanych": 3155,
+        "ogloszen_sklasyfikowanych": 3155,
+        "ogloszen_dotyczacych_ai": 194,
         "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 84,
-        "roznych_zamawiajacych": 138
+        "ogloszen_sektor_publiczny": 87,
+        "roznych_zamawiajacych": 140
     },
     "wg_sektora": [
         {
@@ -31,8 +31,8 @@
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 38,
-            "zamawiajacych": 32
+            "ogloszen": 41,
+            "zamawiajacych": 34
         },
         {
             "kod": "szpital_zdrowie",
@@ -102,7 +102,7 @@
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 24
+            "ogloszen": 27
         },
         {
             "kod": "uslugi_it",
@@ -202,8 +202,8 @@
             "ogloszen": 13
         },
         {
-            "tydzien_od": "2026-09-29",
-            "ogloszen": 9
+            "tydzien_od": "2026-09-28",
+            "ogloszen": 12
         }
     ],
     "slowniki": {
