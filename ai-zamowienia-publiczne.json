@@ -10,13 +10,13 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-10-02"
+        "do": "2026-10-05"
     },
-    "aktualizacja": "2026-10-05",
+    "aktualizacja": "2026-10-06",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3158,
-        "ogloszen_sklasyfikowanych": 3158,
-        "ogloszen_dotyczacych_ai": 194,
+        "ogloszen_przeanalizowanych": 3186,
+        "ogloszen_sklasyfikowanych": 3186,
+        "ogloszen_dotyczacych_ai": 195,
         "udzial_ai_proc": 6.1,
         "ogloszen_sektor_publiczny": 87,
         "roznych_zamawiajacych": 140
@@ -25,7 +25,7 @@
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 94,
+            "ogloszen": 95,
             "zamawiajacych": 60
         },
         {
@@ -87,7 +87,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 78
+            "ogloszen": 79
         },
         {
             "kod": "badania_rd",
@@ -204,6 +204,10 @@
         {
             "tydzien_od": "2026-09-28",
             "ogloszen": 12
+        },
+        {
+            "tydzien_od": "2026-10-05",
+            "ogloszen": 1
         }
     ],
     "slowniki": {
