@@ -10,29 +10,29 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-10-06"
+        "do": "2026-10-07"
     },
-    "aktualizacja": "2026-10-07",
+    "aktualizacja": "2026-10-08",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3230,
-        "ogloszen_sklasyfikowanych": 3230,
-        "ogloszen_dotyczacych_ai": 196,
-        "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 87,
-        "roznych_zamawiajacych": 141
+        "ogloszen_przeanalizowanych": 3282,
+        "ogloszen_sklasyfikowanych": 3282,
+        "ogloszen_dotyczacych_ai": 203,
+        "udzial_ai_proc": 6.2,
+        "ogloszen_sektor_publiczny": 89,
+        "roznych_zamawiajacych": 147
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 96,
-            "zamawiajacych": 61
+            "ogloszen": 100,
+            "zamawiajacych": 64
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 41,
-            "zamawiajacych": 34
+            "ogloszen": 42,
+            "zamawiajacych": 35
         },
         {
             "kod": "szpital_zdrowie",
@@ -41,16 +41,16 @@
             "zamawiajacych": 15
         },
         {
+            "kod": "samorzad",
+            "nazwa": "Samorząd",
+            "ogloszen": 11,
+            "zamawiajacych": 10
+        },
+        {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
             "ogloszen": 11,
             "zamawiajacych": 6
-        },
-        {
-            "kod": "samorzad",
-            "nazwa": "Samorząd",
-            "ogloszen": 10,
-            "zamawiajacych": 9
         },
         {
             "kod": "administracja_centralna",
@@ -65,15 +65,15 @@
             "zamawiajacych": 3
         },
         {
+            "kod": "inne",
+            "nazwa": "Pozostałe",
+            "ogloszen": 3,
+            "zamawiajacych": 3
+        },
+        {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 3,
-            "zamawiajacych": 2
-        },
-        {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
-            "ogloszen": 2,
             "zamawiajacych": 2
         },
         {
@@ -87,7 +87,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 79
+            "ogloszen": 83
         },
         {
             "kod": "badania_rd",
@@ -102,17 +102,17 @@
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 27
+            "ogloszen": 28
         },
         {
             "kod": "uslugi_it",
             "nazwa": "Usługi IT bez AI",
-            "ogloszen": 8
+            "ogloszen": 9
         },
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 6
+            "ogloszen": 7
         },
         {
             "kod": "inne",
@@ -203,11 +203,11 @@
         },
         {
             "tydzien_od": "2026-09-28",
-            "ogloszen": 12
+            "ogloszen": 13
         },
         {
             "tydzien_od": "2026-10-05",
-            "ogloszen": 2
+            "ogloszen": 8
         }
     ],
     "slowniki": {
