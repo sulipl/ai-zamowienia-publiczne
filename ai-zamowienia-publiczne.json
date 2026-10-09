@@ -10,16 +10,16 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-10-07"
+        "do": "2026-10-08"
     },
-    "aktualizacja": "2026-10-08",
+    "aktualizacja": "2026-10-09",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3282,
-        "ogloszen_sklasyfikowanych": 3282,
-        "ogloszen_dotyczacych_ai": 203,
+        "ogloszen_przeanalizowanych": 3321,
+        "ogloszen_sklasyfikowanych": 3321,
+        "ogloszen_dotyczacych_ai": 205,
         "udzial_ai_proc": 6.2,
         "ogloszen_sektor_publiczny": 89,
-        "roznych_zamawiajacych": 147
+        "roznych_zamawiajacych": 148
     },
     "wg_sektora": [
         {
@@ -41,16 +41,16 @@
             "zamawiajacych": 15
         },
         {
+            "kod": "ngo",
+            "nazwa": "Organizacje pozarządowe",
+            "ogloszen": 13,
+            "zamawiajacych": 7
+        },
+        {
             "kod": "samorzad",
             "nazwa": "Samorząd",
             "ogloszen": 11,
             "zamawiajacych": 10
-        },
-        {
-            "kod": "ngo",
-            "nazwa": "Organizacje pozarządowe",
-            "ogloszen": 11,
-            "zamawiajacych": 6
         },
         {
             "kod": "administracja_centralna",
@@ -65,16 +65,16 @@
             "zamawiajacych": 3
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
-            "ogloszen": 3,
-            "zamawiajacych": 3
-        },
-        {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 3,
             "zamawiajacych": 2
+        },
+        {
+            "kod": "inne",
+            "nazwa": "Pozostałe",
+            "ogloszen": 3,
+            "zamawiajacych": 3
         },
         {
             "kod": "spolka_komunalna",
@@ -90,14 +90,14 @@
             "ogloszen": 83
         },
         {
+            "kod": "szkolenie",
+            "nazwa": "Szkolenia",
+            "ogloszen": 39
+        },
+        {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
             "ogloszen": 38
-        },
-        {
-            "kod": "szkolenie",
-            "nazwa": "Szkolenia",
-            "ogloszen": 37
         },
         {
             "kod": "sprzet_it",
@@ -207,7 +207,7 @@
         },
         {
             "tydzien_od": "2026-10-05",
-            "ogloszen": 8
+            "ogloszen": 10
         }
     ],
     "slowniki": {
