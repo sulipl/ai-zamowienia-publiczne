@@ -10,29 +10,29 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-10-09"
+        "do": "2026-10-12"
     },
-    "aktualizacja": "2026-10-12",
+    "aktualizacja": "2026-10-13",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3362,
-        "ogloszen_sklasyfikowanych": 3362,
-        "ogloszen_dotyczacych_ai": 206,
+        "ogloszen_przeanalizowanych": 3401,
+        "ogloszen_sklasyfikowanych": 3401,
+        "ogloszen_dotyczacych_ai": 209,
         "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 89,
-        "roznych_zamawiajacych": 148
+        "ogloszen_sektor_publiczny": 91,
+        "roznych_zamawiajacych": 149
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 101,
+            "ogloszen": 102,
             "zamawiajacych": 64
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 42,
-            "zamawiajacych": 35
+            "ogloszen": 44,
+            "zamawiajacych": 36
         },
         {
             "kod": "szpital_zdrowie",
@@ -65,16 +65,16 @@
             "zamawiajacych": 3
         },
         {
-            "kod": "oswiata",
-            "nazwa": "Oświata",
-            "ogloszen": 3,
-            "zamawiajacych": 2
-        },
-        {
             "kod": "inne",
             "nazwa": "Pozostałe",
             "ogloszen": 3,
             "zamawiajacych": 3
+        },
+        {
+            "kod": "oswiata",
+            "nazwa": "Oświata",
+            "ogloszen": 3,
+            "zamawiajacych": 2
         },
         {
             "kod": "spolka_komunalna",
@@ -87,7 +87,12 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 84
+            "ogloszen": 85
+        },
+        {
+            "kod": "badania_rd",
+            "nazwa": "Badania i rozwój",
+            "ogloszen": 39
         },
         {
             "kod": "szkolenie",
@@ -95,14 +100,9 @@
             "ogloszen": 39
         },
         {
-            "kod": "badania_rd",
-            "nazwa": "Badania i rozwój",
-            "ogloszen": 38
-        },
-        {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 28
+            "ogloszen": 29
         },
         {
             "kod": "uslugi_it",
@@ -207,7 +207,11 @@
         },
         {
             "tydzien_od": "2026-10-05",
-            "ogloszen": 11
+            "ogloszen": 12
+        },
+        {
+            "tydzien_od": "2026-10-12",
+            "ogloszen": 2
         }
     ],
     "slowniki": {
