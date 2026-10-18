@@ -12,10 +12,10 @@
         "od": "2026-05-12",
         "do": "2026-10-16"
     },
-    "aktualizacja": "2026-10-17",
+    "aktualizacja": "2026-10-18",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3532,
-        "ogloszen_sklasyfikowanych": 3532,
+        "ogloszen_przeanalizowanych": 3535,
+        "ogloszen_sklasyfikowanych": 3535,
         "ogloszen_dotyczacych_ai": 216,
         "udzial_ai_proc": 6.1,
         "ogloszen_sektor_publiczny": 95,
@@ -59,14 +59,14 @@
             "zamawiajacych": 8
         },
         {
-            "kod": "oswiata",
-            "nazwa": "Oświata",
+            "kod": "sluzby_wojsko",
+            "nazwa": "Służby i wojsko",
             "ogloszen": 4,
             "zamawiajacych": 3
         },
         {
-            "kod": "sluzby_wojsko",
-            "nazwa": "Służby i wojsko",
+            "kod": "oswiata",
+            "nazwa": "Oświata",
             "ogloszen": 4,
             "zamawiajacych": 3
         },
@@ -105,13 +105,13 @@
             "ogloszen": 29
         },
         {
-            "kod": "uslugi_it",
-            "nazwa": "Usługi IT bez AI",
+            "kod": "oprogramowanie",
+            "nazwa": "Licencje i gotowe oprogramowanie",
             "ogloszen": 9
         },
         {
-            "kod": "oprogramowanie",
-            "nazwa": "Licencje i gotowe oprogramowanie",
+            "kod": "uslugi_it",
+            "nazwa": "Usługi IT bez AI",
             "ogloszen": 9
         },
         {
