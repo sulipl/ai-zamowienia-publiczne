@@ -10,22 +10,22 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-10-20"
+        "do": "2026-10-22"
     },
-    "aktualizacja": "2026-10-22",
+    "aktualizacja": "2026-10-23",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3635,
-        "ogloszen_sklasyfikowanych": 3635,
-        "ogloszen_dotyczacych_ai": 221,
+        "ogloszen_przeanalizowanych": 3688,
+        "ogloszen_sklasyfikowanych": 3688,
+        "ogloszen_dotyczacych_ai": 225,
         "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 96,
-        "roznych_zamawiajacych": 155
+        "ogloszen_sektor_publiczny": 97,
+        "roznych_zamawiajacych": 156
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 109,
+            "ogloszen": 112,
             "zamawiajacych": 67
         },
         {
@@ -59,14 +59,14 @@
             "zamawiajacych": 8
         },
         {
-            "kod": "oswiata",
-            "nazwa": "Oświata",
-            "ogloszen": 4,
-            "zamawiajacych": 3
-        },
-        {
             "kod": "sluzby_wojsko",
             "nazwa": "Służby i wojsko",
+            "ogloszen": 5,
+            "zamawiajacych": 4
+        },
+        {
+            "kod": "oswiata",
+            "nazwa": "Oświata",
             "ogloszen": 4,
             "zamawiajacych": 3
         },
@@ -102,12 +102,12 @@
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 29
+            "ogloszen": 32
         },
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 10
+            "ogloszen": 11
         },
         {
             "kod": "uslugi_it",
@@ -215,7 +215,7 @@
         },
         {
             "tydzien_od": "2026-10-19",
-            "ogloszen": 5
+            "ogloszen": 9
         }
     ],
     "slowniki": {
