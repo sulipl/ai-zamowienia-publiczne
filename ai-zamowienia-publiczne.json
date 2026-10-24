@@ -10,22 +10,22 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-10-22"
+        "do": "2026-10-23"
     },
-    "aktualizacja": "2026-10-23",
+    "aktualizacja": "2026-10-24",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3688,
-        "ogloszen_sklasyfikowanych": 3688,
-        "ogloszen_dotyczacych_ai": 225,
+        "ogloszen_przeanalizowanych": 3733,
+        "ogloszen_sklasyfikowanych": 3733,
+        "ogloszen_dotyczacych_ai": 227,
         "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 97,
+        "ogloszen_sektor_publiczny": 98,
         "roznych_zamawiajacych": 156
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 112,
+            "ogloszen": 113,
             "zamawiajacych": 67
         },
         {
@@ -49,7 +49,7 @@
         {
             "kod": "samorzad",
             "nazwa": "Samorząd",
-            "ogloszen": 11,
+            "ogloszen": 12,
             "zamawiajacych": 10
         },
         {
@@ -87,7 +87,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 87
+            "ogloszen": 88
         },
         {
             "kod": "badania_rd",
@@ -107,7 +107,7 @@
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 11
+            "ogloszen": 12
         },
         {
             "kod": "uslugi_it",
@@ -215,7 +215,7 @@
         },
         {
             "tydzien_od": "2026-10-19",
-            "ogloszen": 9
+            "ogloszen": 11
         }
     ],
     "slowniki": {
