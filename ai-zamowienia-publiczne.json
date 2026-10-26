@@ -12,10 +12,10 @@
         "od": "2026-05-12",
         "do": "2026-10-23"
     },
-    "aktualizacja": "2026-10-24",
+    "aktualizacja": "2026-10-26",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3733,
-        "ogloszen_sklasyfikowanych": 3733,
+        "ogloszen_przeanalizowanych": 3738,
+        "ogloszen_sklasyfikowanych": 3738,
         "ogloszen_dotyczacych_ai": 227,
         "udzial_ai_proc": 6.1,
         "ogloszen_sektor_publiczny": 98,
