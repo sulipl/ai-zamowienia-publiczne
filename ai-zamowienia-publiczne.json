@@ -10,23 +10,23 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-10-28"
+        "do": "2026-10-29"
     },
-    "aktualizacja": "2026-10-29",
+    "aktualizacja": "2026-10-30",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3861,
-        "ogloszen_sklasyfikowanych": 3861,
-        "ogloszen_dotyczacych_ai": 230,
-        "udzial_ai_proc": 6,
+        "ogloszen_przeanalizowanych": 3895,
+        "ogloszen_sklasyfikowanych": 3895,
+        "ogloszen_dotyczacych_ai": 231,
+        "udzial_ai_proc": 5.9,
         "ogloszen_sektor_publiczny": 99,
-        "roznych_zamawiajacych": 158
+        "roznych_zamawiajacych": 159
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 115,
-            "zamawiajacych": 69
+            "ogloszen": 116,
+            "zamawiajacych": 70
         },
         {
             "kod": "uczelnia_nauka",
@@ -112,7 +112,7 @@
         {
             "kod": "uslugi_it",
             "nazwa": "Usługi IT bez AI",
-            "ogloszen": 9
+            "ogloszen": 10
         },
         {
             "kod": "inne",
@@ -219,7 +219,7 @@
         },
         {
             "tydzien_od": "2026-10-28",
-            "ogloszen": 3
+            "ogloszen": 4
         }
     ],
     "slowniki": {
