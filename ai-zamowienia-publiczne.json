@@ -10,23 +10,23 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-10-29"
+        "do": "2026-10-30"
     },
-    "aktualizacja": "2026-10-30",
+    "aktualizacja": "2026-10-31",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3895,
-        "ogloszen_sklasyfikowanych": 3895,
-        "ogloszen_dotyczacych_ai": 231,
-        "udzial_ai_proc": 5.9,
-        "ogloszen_sektor_publiczny": 99,
-        "roznych_zamawiajacych": 159
+        "ogloszen_przeanalizowanych": 3934,
+        "ogloszen_sklasyfikowanych": 3934,
+        "ogloszen_dotyczacych_ai": 235,
+        "udzial_ai_proc": 6,
+        "ogloszen_sektor_publiczny": 101,
+        "roznych_zamawiajacych": 163
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 116,
-            "zamawiajacych": 70
+            "ogloszen": 117,
+            "zamawiajacych": 71
         },
         {
             "kod": "uczelnia_nauka",
@@ -49,14 +49,14 @@
         {
             "kod": "samorzad",
             "nazwa": "Samorząd",
-            "ogloszen": 12,
-            "zamawiajacych": 10
+            "ogloszen": 13,
+            "zamawiajacych": 11
         },
         {
             "kod": "administracja_centralna",
             "nazwa": "Administracja centralna",
-            "ogloszen": 9,
-            "zamawiajacych": 8
+            "ogloszen": 10,
+            "zamawiajacych": 9
         },
         {
             "kod": "sluzby_wojsko",
@@ -73,8 +73,8 @@
         {
             "kod": "inne",
             "nazwa": "Pozostałe",
-            "ogloszen": 3,
-            "zamawiajacych": 3
+            "ogloszen": 4,
+            "zamawiajacych": 4
         },
         {
             "kod": "spolka_komunalna",
@@ -92,22 +92,22 @@
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 45
+            "ogloszen": 46
         },
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 42
+            "ogloszen": 43
         },
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 32
+            "ogloszen": 33
         },
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 12
+            "ogloszen": 13
         },
         {
             "kod": "uslugi_it",
@@ -219,7 +219,7 @@
         },
         {
             "tydzien_od": "2026-10-28",
-            "ogloszen": 4
+            "ogloszen": 8
         }
     ],
     "slowniki": {
