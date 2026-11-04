@@ -10,16 +10,16 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-02"
+        "do": "2026-11-03"
     },
-    "aktualizacja": "2026-11-03",
+    "aktualizacja": "2026-11-04",
     "liczby": {
-        "ogloszen_przeanalizowanych": 3969,
-        "ogloszen_sklasyfikowanych": 3969,
-        "ogloszen_dotyczacych_ai": 238,
+        "ogloszen_przeanalizowanych": 4015,
+        "ogloszen_sklasyfikowanych": 4015,
+        "ogloszen_dotyczacych_ai": 239,
         "udzial_ai_proc": 6,
-        "ogloszen_sektor_publiczny": 102,
-        "roznych_zamawiajacych": 166
+        "ogloszen_sektor_publiczny": 103,
+        "roznych_zamawiajacych": 167
     },
     "wg_sektora": [
         {
@@ -41,22 +41,22 @@
             "zamawiajacych": 15
         },
         {
-            "kod": "ngo",
-            "nazwa": "Organizacje pozarządowe",
-            "ogloszen": 14,
-            "zamawiajacych": 8
-        },
-        {
             "kod": "samorzad",
             "nazwa": "Samorząd",
             "ogloszen": 14,
             "zamawiajacych": 12
         },
         {
+            "kod": "ngo",
+            "nazwa": "Organizacje pozarządowe",
+            "ogloszen": 14,
+            "zamawiajacych": 8
+        },
+        {
             "kod": "administracja_centralna",
             "nazwa": "Administracja centralna",
-            "ogloszen": 10,
-            "zamawiajacych": 9
+            "ogloszen": 11,
+            "zamawiajacych": 10
         },
         {
             "kod": "sluzby_wojsko",
@@ -97,7 +97,7 @@
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 44
+            "ogloszen": 45
         },
         {
             "kod": "sprzet_it",
@@ -223,7 +223,7 @@
         },
         {
             "tydzien_od": "2026-11-02",
-            "ogloszen": 2
+            "ogloszen": 3
         }
     ],
     "slowniki": {
