@@ -10,14 +10,14 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-03"
+        "do": "2026-11-04"
     },
-    "aktualizacja": "2026-11-04",
+    "aktualizacja": "2026-11-05",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4015,
-        "ogloszen_sklasyfikowanych": 4015,
-        "ogloszen_dotyczacych_ai": 239,
-        "udzial_ai_proc": 6,
+        "ogloszen_przeanalizowanych": 4037,
+        "ogloszen_sklasyfikowanych": 4037,
+        "ogloszen_dotyczacych_ai": 240,
+        "udzial_ai_proc": 5.9,
         "ogloszen_sektor_publiczny": 103,
         "roznych_zamawiajacych": 167
     },
@@ -25,7 +25,7 @@
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 118,
+            "ogloszen": 119,
             "zamawiajacych": 72
         },
         {
@@ -41,16 +41,16 @@
             "zamawiajacych": 15
         },
         {
-            "kod": "samorzad",
-            "nazwa": "Samorząd",
-            "ogloszen": 14,
-            "zamawiajacych": 12
-        },
-        {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
             "ogloszen": 14,
             "zamawiajacych": 8
+        },
+        {
+            "kod": "samorzad",
+            "nazwa": "Samorząd",
+            "ogloszen": 14,
+            "zamawiajacych": 12
         },
         {
             "kod": "administracja_centralna",
@@ -65,16 +65,16 @@
             "zamawiajacych": 4
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
-            "ogloszen": 4,
-            "zamawiajacych": 4
-        },
-        {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 4,
             "zamawiajacych": 3
+        },
+        {
+            "kod": "inne",
+            "nazwa": "Pozostałe",
+            "ogloszen": 4,
+            "zamawiajacych": 4
         },
         {
             "kod": "spolka_komunalna",
@@ -107,7 +107,7 @@
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 13
+            "ogloszen": 14
         },
         {
             "kod": "uslugi_it",
@@ -223,7 +223,7 @@
         },
         {
             "tydzien_od": "2026-11-02",
-            "ogloszen": 3
+            "ogloszen": 4
         }
     ],
     "slowniki": {
