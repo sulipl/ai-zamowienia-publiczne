@@ -10,23 +10,23 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-06"
+        "do": "2026-11-07"
     },
-    "aktualizacja": "2026-11-07",
+    "aktualizacja": "2026-11-08",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4111,
-        "ogloszen_sklasyfikowanych": 4111,
-        "ogloszen_dotyczacych_ai": 245,
+        "ogloszen_przeanalizowanych": 4114,
+        "ogloszen_sklasyfikowanych": 4114,
+        "ogloszen_dotyczacych_ai": 246,
         "udzial_ai_proc": 6,
         "ogloszen_sektor_publiczny": 104,
-        "roznych_zamawiajacych": 171
+        "roznych_zamawiajacych": 172
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 122,
-            "zamawiajacych": 75
+            "ogloszen": 123,
+            "zamawiajacych": 76
         },
         {
             "kod": "uczelnia_nauka",
@@ -92,7 +92,7 @@
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 48
+            "ogloszen": 49
         },
         {
             "kod": "szkolenie",
@@ -223,7 +223,7 @@
         },
         {
             "tydzien_od": "2026-11-02",
-            "ogloszen": 8
+            "ogloszen": 9
         }
     ],
     "slowniki": {
