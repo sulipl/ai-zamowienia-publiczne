@@ -10,29 +10,29 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-07"
+        "do": "2026-11-09"
     },
-    "aktualizacja": "2026-11-09",
+    "aktualizacja": "2026-11-10",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4117,
-        "ogloszen_sklasyfikowanych": 4117,
-        "ogloszen_dotyczacych_ai": 246,
+        "ogloszen_przeanalizowanych": 4152,
+        "ogloszen_sklasyfikowanych": 4152,
+        "ogloszen_dotyczacych_ai": 251,
         "udzial_ai_proc": 6,
-        "ogloszen_sektor_publiczny": 104,
-        "roznych_zamawiajacych": 172
+        "ogloszen_sektor_publiczny": 106,
+        "roznych_zamawiajacych": 177
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 123,
-            "zamawiajacych": 76
+            "ogloszen": 126,
+            "zamawiajacych": 79
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 49,
-            "zamawiajacych": 38
+            "ogloszen": 51,
+            "zamawiajacych": 40
         },
         {
             "kod": "szpital_zdrowie",
@@ -87,22 +87,22 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 90
+            "ogloszen": 91
         },
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 49
+            "ogloszen": 50
         },
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 46
+            "ogloszen": 47
         },
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 34
+            "ogloszen": 36
         },
         {
             "kod": "oprogramowanie",
@@ -224,6 +224,10 @@
         {
             "tydzien_od": "2026-11-02",
             "ogloszen": 9
+        },
+        {
+            "tydzien_od": "2026-11-09",
+            "ogloszen": 5
         }
     ],
     "slowniki": {

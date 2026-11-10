@@ -1,16 +1,16 @@
 # Kto w Polsce kupuje AI za publiczne pieniądze
 
 Otwarty zbiór danych o ogłoszeniach o zamówieniach w Polsce, których przedmiot dotyczy
-sztucznej inteligencji. Budowany codziennie, aktualizacja: **2026-11-09**.
+sztucznej inteligencji. Budowany codziennie, aktualizacja: **2026-11-10**.
 
-Okres objęty zbiorem: **2026-05-12 do 2026-11-07**.
+Okres objęty zbiorem: **2026-05-12 do 2026-11-09**.
 
 ## Główne liczby
 
-- Ogłoszeń przeanalizowanych (po filtrze słów-kluczy): **4117**
-- Ogłoszeń, których przedmiot **naprawdę** dotyczy AI: **246** (6%)
-- Ogłoszonych przez podmioty publiczne: **104**
-- Różnych zamawiających: **172**
+- Ogłoszeń przeanalizowanych (po filtrze słów-kluczy): **4152**
+- Ogłoszeń, których przedmiot **naprawdę** dotyczy AI: **251** (6%)
+- Ogłoszonych przez podmioty publiczne: **106**
+- Różnych zamawiających: **177**
 
 Pierwszy wniosek jest ostrzeżeniem: surowe wyszukiwanie po frazie „sztuczna inteligencja"
 zawyża rynek kilkukrotnie. Większość trafień to zbiegi słów, nie zakupy AI.
@@ -19,9 +19,9 @@ zawyża rynek kilkukrotnie. Większość trafień to zbiegi słów, nie zakupy A
 
 | Rejestr | Co zawiera | Ogłoszeń o AI |
 |---|---|---:|
-| [Baza Konkurencyjności](https://bazakonkurencyjnosci.funduszeeuropejskie.gov.pl/) | ogłoszenia o zamówieniach w projektach współfinansowanych z funduszy europejskich | 172 |
+| [Baza Konkurencyjności](https://bazakonkurencyjnosci.funduszeeuropejskie.gov.pl/) | ogłoszenia o zamówieniach w projektach współfinansowanych z funduszy europejskich | 176 |
 | [TED (Tenders Electronic Daily)](https://ted.europa.eu/) | unijny dziennik zamówień publicznych, polska część | 48 |
-| [eZamówienia](https://ezamowienia.gov.pl/) | krajowa platforma zamówień publicznych | 26 |
+| [eZamówienia](https://ezamowienia.gov.pl/) | krajowa platforma zamówień publicznych | 27 |
 
 Największa część zbioru pochodzi z Bazy Konkurencyjności, gdzie ogłoszenia publikują beneficjenci
 projektów unijnych, w tym firmy prywatne i fundacje. Nie jest to więc wyłącznie obraz przetargów
@@ -33,12 +33,12 @@ pisze nieściśle.
 
 | Sektor | Ogłoszeń | Udział | Zamawiających |
 |---|---:|---:|---:|
-| Firmy prywatne | 123 | 50% | 76 |
-| Uczelnie i instytuty | 49 | 19,9% | 38 |
-| Ochrona zdrowia | 20 | 8,1% | 16 |
-| Organizacje pozarządowe | 15 | 6,1% | 8 |
-| Samorząd | 14 | 5,7% | 12 |
-| Administracja centralna | 11 | 4,5% | 10 |
+| Firmy prywatne | 126 | 50,2% | 79 |
+| Uczelnie i instytuty | 51 | 20,3% | 40 |
+| Ochrona zdrowia | 20 | 8% | 16 |
+| Organizacje pozarządowe | 15 | 6% | 8 |
+| Samorząd | 14 | 5,6% | 12 |
+| Administracja centralna | 11 | 4,4% | 10 |
 | Służby i wojsko | 5 | 2% | 4 |
 | Pozostałe | 4 | 1,6% | 4 |
 | Oświata | 4 | 1,6% | 3 |
@@ -48,10 +48,10 @@ pisze nieściśle.
 
 | Rodzaj zamówienia | Ogłoszeń |
 |---|---:|
-| Wdrożenie systemu AI | 90 |
-| Badania i rozwój | 49 |
-| Szkolenia | 46 |
-| Sprzęt (serwery, GPU, stacje) | 34 |
+| Wdrożenie systemu AI | 91 |
+| Badania i rozwój | 50 |
+| Szkolenia | 47 |
+| Sprzęt (serwery, GPU, stacje) | 36 |
 | Licencje i gotowe oprogramowanie | 14 |
 | Usługi IT bez AI | 11 |
 | Pozostałe | 2 |
@@ -97,5 +97,5 @@ Klasyfikacja modelem językowym ma niezerowy błąd; kolumna `dotyczy_ai` jest o
 Dane pochodzą z jawnych rejestrów zamówień publicznych. Opracowanie udostępniamy na licencji
 **CC BY 4.0**.
 
-> redAi, *Monitor AI w polskich zamówieniach finansowanych ze środków publicznych*, dane za okres 2026-05-12 do 2026-11-07,
-> aktualizacja 2026-11-09. https://redai.pl/raport/kto-kupuje-ai-w-polsce
+> redAi, *Monitor AI w polskich zamówieniach finansowanych ze środków publicznych*, dane za okres 2026-05-12 do 2026-11-09,
+> aktualizacja 2026-11-10. https://redai.pl/raport/kto-kupuje-ai-w-polsce
