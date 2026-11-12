@@ -10,13 +10,13 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-10"
+        "do": "2026-11-11"
     },
-    "aktualizacja": "2026-11-11",
+    "aktualizacja": "2026-11-12",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4192,
-        "ogloszen_sklasyfikowanych": 4192,
-        "ogloszen_dotyczacych_ai": 254,
+        "ogloszen_przeanalizowanych": 4200,
+        "ogloszen_sklasyfikowanych": 4200,
+        "ogloszen_dotyczacych_ai": 255,
         "udzial_ai_proc": 6.1,
         "ogloszen_sektor_publiczny": 107,
         "roznych_zamawiajacych": 179
@@ -25,7 +25,7 @@
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 128,
+            "ogloszen": 129,
             "zamawiajacych": 80
         },
         {
@@ -102,7 +102,7 @@
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 36
+            "ogloszen": 37
         },
         {
             "kod": "oprogramowanie",
@@ -227,7 +227,7 @@
         },
         {
             "tydzien_od": "2026-11-09",
-            "ogloszen": 8
+            "ogloszen": 9
         }
     ],
     "slowniki": {
