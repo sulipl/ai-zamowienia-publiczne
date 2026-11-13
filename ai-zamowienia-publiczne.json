@@ -12,12 +12,12 @@
         "od": "2026-05-12",
         "do": "2026-11-11"
     },
-    "aktualizacja": "2026-11-12",
+    "aktualizacja": "2026-11-13",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4200,
-        "ogloszen_sklasyfikowanych": 4200,
+        "ogloszen_przeanalizowanych": 4239,
+        "ogloszen_sklasyfikowanych": 4234,
         "ogloszen_dotyczacych_ai": 255,
-        "udzial_ai_proc": 6.1,
+        "udzial_ai_proc": 6,
         "ogloszen_sektor_publiczny": 107,
         "roznych_zamawiajacych": 179
     },
@@ -65,16 +65,16 @@
             "zamawiajacych": 4
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
-            "ogloszen": 4,
-            "zamawiajacych": 4
-        },
-        {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 4,
             "zamawiajacych": 3
+        },
+        {
+            "kod": "inne",
+            "nazwa": "Pozostałe",
+            "ogloszen": 4,
+            "zamawiajacych": 4
         },
         {
             "kod": "spolka_komunalna",
