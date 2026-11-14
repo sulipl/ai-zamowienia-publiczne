@@ -10,22 +10,22 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-11"
+        "do": "2026-11-13"
     },
-    "aktualizacja": "2026-11-13",
+    "aktualizacja": "2026-11-14",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4239,
-        "ogloszen_sklasyfikowanych": 4234,
-        "ogloszen_dotyczacych_ai": 255,
+        "ogloszen_przeanalizowanych": 4274,
+        "ogloszen_sklasyfikowanych": 4274,
+        "ogloszen_dotyczacych_ai": 257,
         "udzial_ai_proc": 6,
         "ogloszen_sektor_publiczny": 107,
-        "roznych_zamawiajacych": 179
+        "roznych_zamawiajacych": 180
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 129,
+            "ogloszen": 130,
             "zamawiajacych": 80
         },
         {
@@ -43,8 +43,8 @@
         {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
-            "ogloszen": 15,
-            "zamawiajacych": 8
+            "ogloszen": 16,
+            "zamawiajacych": 9
         },
         {
             "kod": "samorzad",
@@ -92,7 +92,7 @@
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 50
+            "ogloszen": 51
         },
         {
             "kod": "szkolenie",
@@ -107,7 +107,7 @@
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 14
+            "ogloszen": 15
         },
         {
             "kod": "uslugi_it",
@@ -227,7 +227,7 @@
         },
         {
             "tydzien_od": "2026-11-09",
-            "ogloszen": 9
+            "ogloszen": 11
         }
     ],
     "slowniki": {
