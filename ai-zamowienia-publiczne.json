@@ -10,23 +10,23 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-13"
+        "do": "2026-11-16"
     },
-    "aktualizacja": "2026-11-16",
+    "aktualizacja": "2026-11-17",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4278,
-        "ogloszen_sklasyfikowanych": 4278,
-        "ogloszen_dotyczacych_ai": 257,
-        "udzial_ai_proc": 6,
-        "ogloszen_sektor_publiczny": 107,
-        "roznych_zamawiajacych": 180
+        "ogloszen_przeanalizowanych": 4306,
+        "ogloszen_sklasyfikowanych": 4306,
+        "ogloszen_dotyczacych_ai": 262,
+        "udzial_ai_proc": 6.1,
+        "ogloszen_sektor_publiczny": 108,
+        "roznych_zamawiajacych": 184
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 130,
-            "zamawiajacych": 80
+            "ogloszen": 133,
+            "zamawiajacych": 82
         },
         {
             "kod": "uczelnia_nauka",
@@ -43,14 +43,14 @@
         {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
-            "ogloszen": 16,
-            "zamawiajacych": 9
+            "ogloszen": 17,
+            "zamawiajacych": 10
         },
         {
             "kod": "samorzad",
             "nazwa": "Samorząd",
-            "ogloszen": 14,
-            "zamawiajacych": 12
+            "ogloszen": 15,
+            "zamawiajacych": 13
         },
         {
             "kod": "administracja_centralna",
@@ -65,16 +65,16 @@
             "zamawiajacych": 4
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
-            "ogloszen": 4,
-            "zamawiajacych": 4
-        },
-        {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 4,
             "zamawiajacych": 3
+        },
+        {
+            "kod": "inne",
+            "nazwa": "Pozostałe",
+            "ogloszen": 4,
+            "zamawiajacych": 4
         },
         {
             "kod": "spolka_komunalna",
@@ -87,12 +87,12 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 94
+            "ogloszen": 95
         },
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 51
+            "ogloszen": 52
         },
         {
             "kod": "szkolenie",
@@ -102,7 +102,7 @@
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 37
+            "ogloszen": 39
         },
         {
             "kod": "oprogramowanie",
@@ -117,7 +117,7 @@
         {
             "kod": "inne",
             "nazwa": "Pozostałe",
-            "ogloszen": 2
+            "ogloszen": 3
         }
     ],
     "tygodniowo": [
@@ -227,7 +227,11 @@
         },
         {
             "tydzien_od": "2026-11-09",
-            "ogloszen": 11
+            "ogloszen": 12
+        },
+        {
+            "tydzien_od": "2026-11-16",
+            "ogloszen": 4
         }
     ],
     "slowniki": {
