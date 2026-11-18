@@ -10,13 +10,13 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-16"
+        "do": "2026-11-17"
     },
-    "aktualizacja": "2026-11-17",
+    "aktualizacja": "2026-11-18",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4306,
-        "ogloszen_sklasyfikowanych": 4306,
-        "ogloszen_dotyczacych_ai": 262,
+        "ogloszen_przeanalizowanych": 4348,
+        "ogloszen_sklasyfikowanych": 4348,
+        "ogloszen_dotyczacych_ai": 264,
         "udzial_ai_proc": 6.1,
         "ogloszen_sektor_publiczny": 108,
         "roznych_zamawiajacych": 184
@@ -25,7 +25,7 @@
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 133,
+            "ogloszen": 135,
             "zamawiajacych": 82
         },
         {
@@ -65,16 +65,16 @@
             "zamawiajacych": 4
         },
         {
-            "kod": "oswiata",
-            "nazwa": "Oświata",
-            "ogloszen": 4,
-            "zamawiajacych": 3
-        },
-        {
             "kod": "inne",
             "nazwa": "Pozostałe",
             "ogloszen": 4,
             "zamawiajacych": 4
+        },
+        {
+            "kod": "oswiata",
+            "nazwa": "Oświata",
+            "ogloszen": 4,
+            "zamawiajacych": 3
         },
         {
             "kod": "spolka_komunalna",
@@ -92,7 +92,7 @@
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 52
+            "ogloszen": 54
         },
         {
             "kod": "szkolenie",
@@ -231,7 +231,7 @@
         },
         {
             "tydzien_od": "2026-11-16",
-            "ogloszen": 4
+            "ogloszen": 6
         }
     ],
     "slowniki": {
