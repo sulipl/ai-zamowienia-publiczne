@@ -10,29 +10,29 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-17"
+        "do": "2026-11-18"
     },
-    "aktualizacja": "2026-11-18",
+    "aktualizacja": "2026-11-19",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4348,
-        "ogloszen_sklasyfikowanych": 4348,
-        "ogloszen_dotyczacych_ai": 264,
+        "ogloszen_przeanalizowanych": 4389,
+        "ogloszen_sklasyfikowanych": 4389,
+        "ogloszen_dotyczacych_ai": 267,
         "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 108,
-        "roznych_zamawiajacych": 184
+        "ogloszen_sektor_publiczny": 110,
+        "roznych_zamawiajacych": 187
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 135,
-            "zamawiajacych": 82
+            "ogloszen": 136,
+            "zamawiajacych": 83
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 52,
-            "zamawiajacych": 41
+            "ogloszen": 54,
+            "zamawiajacych": 43
         },
         {
             "kod": "szpital_zdrowie",
@@ -65,16 +65,16 @@
             "zamawiajacych": 4
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
-            "ogloszen": 4,
-            "zamawiajacych": 4
-        },
-        {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 4,
             "zamawiajacych": 3
+        },
+        {
+            "kod": "inne",
+            "nazwa": "Pozostałe",
+            "ogloszen": 4,
+            "zamawiajacych": 4
         },
         {
             "kod": "spolka_komunalna",
@@ -87,7 +87,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 95
+            "ogloszen": 97
         },
         {
             "kod": "badania_rd",
@@ -107,7 +107,7 @@
         {
             "kod": "oprogramowanie",
             "nazwa": "Licencje i gotowe oprogramowanie",
-            "ogloszen": 15
+            "ogloszen": 16
         },
         {
             "kod": "uslugi_it",
@@ -231,7 +231,7 @@
         },
         {
             "tydzien_od": "2026-11-16",
-            "ogloszen": 6
+            "ogloszen": 9
         }
     ],
     "slowniki": {
