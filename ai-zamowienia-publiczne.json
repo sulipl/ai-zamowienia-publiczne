@@ -10,15 +10,15 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-18"
+        "do": "2026-11-19"
     },
-    "aktualizacja": "2026-11-19",
+    "aktualizacja": "2026-11-20",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4389,
-        "ogloszen_sklasyfikowanych": 4389,
-        "ogloszen_dotyczacych_ai": 267,
+        "ogloszen_przeanalizowanych": 4431,
+        "ogloszen_sklasyfikowanych": 4431,
+        "ogloszen_dotyczacych_ai": 271,
         "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 110,
+        "ogloszen_sektor_publiczny": 111,
         "roznych_zamawiajacych": 187
     },
     "wg_sektora": [
@@ -31,20 +31,20 @@
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 54,
+            "ogloszen": 55,
             "zamawiajacych": 43
+        },
+        {
+            "kod": "ngo",
+            "nazwa": "Organizacje pozarządowe",
+            "ogloszen": 20,
+            "zamawiajacych": 10
         },
         {
             "kod": "szpital_zdrowie",
             "nazwa": "Ochrona zdrowia",
             "ogloszen": 20,
             "zamawiajacych": 16
-        },
-        {
-            "kod": "ngo",
-            "nazwa": "Organizacje pozarządowe",
-            "ogloszen": 17,
-            "zamawiajacych": 10
         },
         {
             "kod": "samorzad",
@@ -65,16 +65,16 @@
             "zamawiajacych": 4
         },
         {
-            "kod": "oswiata",
-            "nazwa": "Oświata",
-            "ogloszen": 4,
-            "zamawiajacych": 3
-        },
-        {
             "kod": "inne",
             "nazwa": "Pozostałe",
             "ogloszen": 4,
             "zamawiajacych": 4
+        },
+        {
+            "kod": "oswiata",
+            "nazwa": "Oświata",
+            "ogloszen": 4,
+            "zamawiajacych": 3
         },
         {
             "kod": "spolka_komunalna",
@@ -97,12 +97,12 @@
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 47
+            "ogloszen": 50
         },
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 39
+            "ogloszen": 40
         },
         {
             "kod": "oprogramowanie",
@@ -227,11 +227,11 @@
         },
         {
             "tydzien_od": "2026-11-09",
-            "ogloszen": 12
+            "ogloszen": 13
         },
         {
             "tydzien_od": "2026-11-16",
-            "ogloszen": 9
+            "ogloszen": 12
         }
     ],
     "slowniki": {
