@@ -10,16 +10,16 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-19"
+        "do": "2026-11-20"
     },
-    "aktualizacja": "2026-11-20",
+    "aktualizacja": "2026-11-21",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4431,
-        "ogloszen_sklasyfikowanych": 4431,
-        "ogloszen_dotyczacych_ai": 271,
+        "ogloszen_przeanalizowanych": 4469,
+        "ogloszen_sklasyfikowanych": 4466,
+        "ogloszen_dotyczacych_ai": 273,
         "udzial_ai_proc": 6.1,
         "ogloszen_sektor_publiczny": 111,
-        "roznych_zamawiajacych": 187
+        "roznych_zamawiajacych": 188
     },
     "wg_sektora": [
         {
@@ -37,8 +37,8 @@
         {
             "kod": "ngo",
             "nazwa": "Organizacje pozarządowe",
-            "ogloszen": 20,
-            "zamawiajacych": 10
+            "ogloszen": 22,
+            "zamawiajacych": 11
         },
         {
             "kod": "szpital_zdrowie",
@@ -92,12 +92,12 @@
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 54
+            "ogloszen": 55
         },
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 50
+            "ogloszen": 51
         },
         {
             "kod": "sprzet_it",
@@ -231,7 +231,7 @@
         },
         {
             "tydzien_od": "2026-11-16",
-            "ogloszen": 12
+            "ogloszen": 14
         }
     ],
     "slowniki": {
