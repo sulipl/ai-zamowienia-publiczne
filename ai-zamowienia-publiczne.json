@@ -12,21 +12,21 @@
         "od": "2026-05-12",
         "do": "2026-11-20"
     },
-    "aktualizacja": "2026-11-21",
+    "aktualizacja": "2026-11-22",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4469,
-        "ogloszen_sklasyfikowanych": 4466,
-        "ogloszen_dotyczacych_ai": 273,
+        "ogloszen_przeanalizowanych": 4472,
+        "ogloszen_sklasyfikowanych": 4472,
+        "ogloszen_dotyczacych_ai": 275,
         "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 111,
-        "roznych_zamawiajacych": 188
+        "ogloszen_sektor_publiczny": 112,
+        "roznych_zamawiajacych": 190
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 136,
-            "zamawiajacych": 83
+            "ogloszen": 137,
+            "zamawiajacych": 84
         },
         {
             "kod": "uczelnia_nauka",
@@ -55,8 +55,8 @@
         {
             "kod": "administracja_centralna",
             "nazwa": "Administracja centralna",
-            "ogloszen": 11,
-            "zamawiajacych": 10
+            "ogloszen": 12,
+            "zamawiajacych": 11
         },
         {
             "kod": "sluzby_wojsko",
@@ -65,16 +65,16 @@
             "zamawiajacych": 4
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
-            "ogloszen": 4,
-            "zamawiajacych": 4
-        },
-        {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 4,
             "zamawiajacych": 3
+        },
+        {
+            "kod": "inne",
+            "nazwa": "Pozostałe",
+            "ogloszen": 4,
+            "zamawiajacych": 4
         },
         {
             "kod": "spolka_komunalna",
@@ -87,7 +87,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 97
+            "ogloszen": 98
         },
         {
             "kod": "badania_rd",
@@ -102,7 +102,7 @@
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 40
+            "ogloszen": 41
         },
         {
             "kod": "oprogramowanie",
@@ -227,11 +227,11 @@
         },
         {
             "tydzien_od": "2026-11-09",
-            "ogloszen": 13
+            "ogloszen": 14
         },
         {
             "tydzien_od": "2026-11-16",
-            "ogloszen": 14
+            "ogloszen": 15
         }
     ],
     "slowniki": {
