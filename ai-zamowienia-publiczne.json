@@ -10,16 +10,16 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-20"
+        "do": "2026-11-23"
     },
-    "aktualizacja": "2026-11-23",
+    "aktualizacja": "2026-11-24",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4476,
-        "ogloszen_sklasyfikowanych": 4476,
-        "ogloszen_dotyczacych_ai": 275,
+        "ogloszen_przeanalizowanych": 4508,
+        "ogloszen_sklasyfikowanych": 4508,
+        "ogloszen_dotyczacych_ai": 276,
         "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 112,
-        "roznych_zamawiajacych": 190
+        "ogloszen_sektor_publiczny": 113,
+        "roznych_zamawiajacych": 191
     },
     "wg_sektora": [
         {
@@ -31,8 +31,8 @@
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 55,
-            "zamawiajacych": 43
+            "ogloszen": 56,
+            "zamawiajacych": 44
         },
         {
             "kod": "ngo",
@@ -97,7 +97,7 @@
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 51
+            "ogloszen": 52
         },
         {
             "kod": "sprzet_it",
@@ -232,6 +232,10 @@
         {
             "tydzien_od": "2026-11-16",
             "ogloszen": 15
+        },
+        {
+            "tydzien_od": "2026-11-23",
+            "ogloszen": 1
         }
     ],
     "slowniki": {
