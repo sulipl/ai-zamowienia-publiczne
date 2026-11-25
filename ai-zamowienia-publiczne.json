@@ -10,28 +10,28 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-23"
+        "do": "2026-11-24"
     },
-    "aktualizacja": "2026-11-24",
+    "aktualizacja": "2026-11-25",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4508,
-        "ogloszen_sklasyfikowanych": 4508,
-        "ogloszen_dotyczacych_ai": 276,
-        "udzial_ai_proc": 6.1,
-        "ogloszen_sektor_publiczny": 113,
-        "roznych_zamawiajacych": 191
+        "ogloszen_przeanalizowanych": 4536,
+        "ogloszen_sklasyfikowanych": 4536,
+        "ogloszen_dotyczacych_ai": 279,
+        "udzial_ai_proc": 6.2,
+        "ogloszen_sektor_publiczny": 114,
+        "roznych_zamawiajacych": 192
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 137,
-            "zamawiajacych": 84
+            "ogloszen": 139,
+            "zamawiajacych": 85
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 56,
+            "ogloszen": 57,
             "zamawiajacych": 44
         },
         {
@@ -87,7 +87,7 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 98
+            "ogloszen": 99
         },
         {
             "kod": "badania_rd",
@@ -97,12 +97,12 @@
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 52
+            "ogloszen": 53
         },
         {
             "kod": "sprzet_it",
             "nazwa": "Sprzęt (serwery, GPU, stacje)",
-            "ogloszen": 41
+            "ogloszen": 42
         },
         {
             "kod": "oprogramowanie",
@@ -235,7 +235,7 @@
         },
         {
             "tydzien_od": "2026-11-23",
-            "ogloszen": 1
+            "ogloszen": 4
         }
     ],
     "slowniki": {
