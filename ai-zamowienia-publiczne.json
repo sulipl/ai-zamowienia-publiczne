@@ -10,29 +10,29 @@
     ],
     "okres": {
         "od": "2026-05-12",
-        "do": "2026-11-24"
+        "do": "2026-11-26"
     },
-    "aktualizacja": "2026-11-25",
+    "aktualizacja": "2026-11-26",
     "liczby": {
-        "ogloszen_przeanalizowanych": 4536,
-        "ogloszen_sklasyfikowanych": 4536,
-        "ogloszen_dotyczacych_ai": 279,
+        "ogloszen_przeanalizowanych": 4569,
+        "ogloszen_sklasyfikowanych": 4569,
+        "ogloszen_dotyczacych_ai": 283,
         "udzial_ai_proc": 6.2,
-        "ogloszen_sektor_publiczny": 114,
-        "roznych_zamawiajacych": 192
+        "ogloszen_sektor_publiczny": 115,
+        "roznych_zamawiajacych": 195
     },
     "wg_sektora": [
         {
             "kod": "firma_prywatna",
             "nazwa": "Firmy prywatne",
-            "ogloszen": 139,
-            "zamawiajacych": 85
+            "ogloszen": 142,
+            "zamawiajacych": 87
         },
         {
             "kod": "uczelnia_nauka",
             "nazwa": "Uczelnie i instytuty",
-            "ogloszen": 57,
-            "zamawiajacych": 44
+            "ogloszen": 58,
+            "zamawiajacych": 45
         },
         {
             "kod": "ngo",
@@ -65,16 +65,16 @@
             "zamawiajacych": 4
         },
         {
-            "kod": "inne",
-            "nazwa": "Pozostałe",
-            "ogloszen": 4,
-            "zamawiajacych": 4
-        },
-        {
             "kod": "oswiata",
             "nazwa": "Oświata",
             "ogloszen": 4,
             "zamawiajacych": 3
+        },
+        {
+            "kod": "inne",
+            "nazwa": "Pozostałe",
+            "ogloszen": 4,
+            "zamawiajacych": 4
         },
         {
             "kod": "spolka_komunalna",
@@ -87,17 +87,17 @@
         {
             "kod": "wdrozenie_ai",
             "nazwa": "Wdrożenie systemu AI",
-            "ogloszen": 99
+            "ogloszen": 100
         },
         {
             "kod": "badania_rd",
             "nazwa": "Badania i rozwój",
-            "ogloszen": 55
+            "ogloszen": 56
         },
         {
             "kod": "szkolenie",
             "nazwa": "Szkolenia",
-            "ogloszen": 53
+            "ogloszen": 55
         },
         {
             "kod": "sprzet_it",
@@ -235,7 +235,7 @@
         },
         {
             "tydzien_od": "2026-11-23",
-            "ogloszen": 4
+            "ogloszen": 8
         }
     ],
     "slowniki": {
